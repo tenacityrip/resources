@@ -636,5 +636,38 @@
     "zh": "方框",
     "ja": "ボックス",
     "ar": "إطار"
+  },
+  "Random Cracked": {
+    "de": "Zufälliger Offline-Account",
+    "fr": "Compte hors ligne aléatoire",
+    "it": "Account offline casuale",
+    "pl": "Losowe konto offline",
+    "ru": "Случайный офлайн-аккаунт",
+    "tr": "Rastgele offline hesap",
+    "zh": "随机离线账号",
+    "ja": "ランダムなオフラインアカウント",
+    "ar": "حساب غير أصلي عشوائي"
+  },
+  "Cracked username": {
+    "de": "Offline-Benutzername",
+    "fr": "Pseudo hors ligne",
+    "it": "Nome utente offline",
+    "pl": "Nazwa konta offline",
+    "ru": "Офлайн-ник",
+    "tr": "Offline kullanıcı adı",
+    "zh": "离线用户名",
+    "ja": "オフラインのユーザー名",
+    "ar": "اسم مستخدم غير أصلي"
+  },
+  "No alt selected": {
+    "de": "Kein Alt ausgewählt",
+    "fr": "Aucun alt sélectionné",
+    "it": "Nessun alt selezionato",
+    "pl": "Nie wybrano alta",
+    "ru": "Альт не выбран",
+    "tr": "Alt seçilmedi",
+    "zh": "未选择小号",
+    "ja": "サブ垢が選択されていません",
+    "ar": "لم يتم تحديد حساب"
   }
 }

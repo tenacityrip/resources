@@ -22,7 +22,7 @@ Corrections from native speakers are welcome: see [CONTRIBUTING.md](CONTRIBUTING
 
 - English is the source. Every language has exactly the same keys.
 - Keep `{placeholders}`, `<tags>` and `§` color codes exactly as they are.
-- Module names stay in English.
+- Module names are translated by hand in Chinese, Japanese, Arabic and partly French, and stay in English elsewhere.
 
 ## Commands
 

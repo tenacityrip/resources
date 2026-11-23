@@ -38,6 +38,8 @@ function problem(english, out) {
     if (/[?؟]{2}/.test(out)) return "doubled a question mark";
     if (out.length > Math.max(40, english.length * 4)) return "too long";
     if (/^(?:Source|Translation|English|German|French|Italian|Polish|Russian|Turkish|Chinese|Japanese)\s*:/i.test(out)) return "meta text";
+    const unit = english.match(/(?:FPS|BPS|CPS|XYZ)/g)?.find((name) => !out.includes(name));
+    if (unit) return `lost ${unit}`;
     const lost = BRANDS.find((brand) => new RegExp(`\\b${brand}\\b`).test(english) && !out.includes(brand));
     if (lost) return `lost ${lost}`;
     const kept = english.match(TOKEN) ?? [];

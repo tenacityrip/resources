@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: der offizielle Minecraft 1.8.9 Client",
+    "description": "Die offiziell unterstützte Modernisierung des beliebtesten Legacy-Clients.",
+    "offer": "Kostenlos enthalten bei einem Opal- oder Terminus-Lizenz."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "purchase": "Kaufen",
+    "toggle": "Navigation umschalten",
+    "goTo": "Gehen Sie zu {section}",
+    "language": "Sprache",
+    "sections": {
+      "top": "Anfang",
+      "trailer": "Trailer",
+      "info": "Funktionen",
+      "media": "Medien",
+      "faq": "FAQ",
+      "footer": "Fußzeile"
+    }
+  },
+  "landing": {
+    "learnMore": "Mehr erfahren",
+    "customize": "Passen Sie <b>Tenacity</b> nach Ihren Wünschen mit unseren <b>3</b> ClickGUIs und <b>20+</b> vorgefertigten Themes an",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "MEDIEN",
+    "videoTitle": "Tenacity-Video",
+    "faq": "FAQ",
+    "faqLede": "Häufig gestellte Fragen"
+  },
+  "faq": {
+    "what": {
+      "q": "Was ist Tenacity?",
+      "a": "Tenacity ist ein Minecraft 1.8.9 Utility-Client, der erstmals im März 2021 veröffentlicht wurde. Dies ist die offizielle Fortsetzung, die vom Team hinter Opal gepflegt wird und auf moderner Java mit einem neuen Renderer und einer neuen Skript-Engine neu aufgebaut wurde."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "Tenacity ist <purchase>Opal</purchase> oder Terminus kostenfrei beigefügt. Es wird nicht einzeln verkauft. Kaufen Sie eines davon und melden Sie sich anschließend mit demselben Konto im <dashboard>Dashboard</dashboard> an, um Tenacity herunterzuladen."
+    },
+    "owner": {
+      "q": "Ich besitze bereits Opal oder Terminus. Was nun?",
+      "a": "Melden Sie sich im <dashboard>Dashboard</dashboard> mit der E-Mail-Adresse an, mit der Sie es gekauft haben. Tenacity ist bereits auf Ihrem Konto vorhanden."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "Ja. tenacity.rip ist die offizielle, unterstützte Heimat von Tenacity und der einzige Ort, um aktuelle Builds zu erhalten. Kopien von anderswo sind nicht unsere und sollten nicht ausgeführt werden."
+    },
+    "expire": {
+      "q": "Wird mein Zugriff jemals ablaufen?",
+      "a": "Nein. Der Zugriff ist lebenslang, einschließlich zukünftiger Updates, solange Sie unsere <terms>Nutzungsbedingungen</terms> einhalten."
+    },
+    "systems": {
+      "q": "Welche Betriebssysteme werden unterstützt?",
+      "a": "Windows, macOS und Linux."
+    },
+    "version": {
+      "q": "Auf welcher Minecraft-Version läuft Tenacity?",
+      "a": "Minecraft: Java Edition 1.8.9."
+    },
+    "scripts": {
+      "q": "Kann ich Skripte schreiben?",
+      "a": "Ja. Skripte können in JavaScript, TypeScript oder Lua geschrieben werden. Das <docs>Dokumentation</docs> behandelt die API, Bindungen und Beispiele."
+    },
+    "help": {
+      "q": "Wo bekomme ich Hilfe?",
+      "a": "Treten Sie unserem <discord>Discord</discord> bei."
+    }
+  },
+  "footer": {
+    "explore": "ENTDECKEN",
+    "docs": "Dokumente",
+    "discord": "Discord",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzbestimmungen"
+  },
+  "legal": {
+    "updated": "Letztes Update {date}",
+    "prevails": "Diese Übersetzung wird der Einfachheit halber bereitgestellt. Sollte sie von der englischen Version abweichen, hat die englische Version Vorrang."
+  },
+  "mail": {
+    "code": {
+      "subject": "Ihr Tenacity-Anmeldecode",
+      "intro": "Geben Sie diesen Code ein, um sich anzumelden. Er ist einmal gültig und läuft in wenigen Minuten ab.",
+      "footnote": "Wenn Sie nicht versucht haben, sich anzumelden, können Sie diese E-Mail ignorieren."
+    },
+    "verify": {
+      "subject": "Überprüfen Sie Ihre Tenacity-E-Mail",
+      "intro": "Bestätigen Sie diese Adresse, um Ihr Tenacity-Dashboard zu öffnen.",
+      "button": "E-Mail überprüfen",
+      "fallback": "Wenn die Taste nicht funktioniert, öffnen Sie {url}"
+    }
+  },
+  "login": {
+    "title": "Anmelden",
+    "lede": "Verwenden Sie das Konto, mit dem Sie Opal oder Terminus erworben haben.",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "code": "Zwei-Faktor-Code",
+    "submit": "Anmelden",
+    "continue": "Fortfahren",
+    "emailCode": "Code aus Ihrer E-Mail",
+    "codeSent": "Wenn {email} ein Konto hat, haben wir ihm einen 6-stelligen Code geschickt.",
+    "passkey": "Anmelden mit einem Passkey",
+    "invalid": "Falsche E-Mail oder falsches Passwort.",
+    "codeInvalid": "Der Code hat nicht funktioniert.",
+    "unavailable": "Die Anmeldung ist momentan nicht verfügbar. Versuchen Sie es später noch einmal."
+  },
+  "verify": {
+    "title": "E-Mail verifizieren",
+    "lede": "Wir haben {email} einen Link geschickt. Öffne ihn und komm dann wieder hierher.",
+    "resend": "Link erneut senden",
+    "sent": "Gesendet. Überprüfen Sie Ihren Posteingang.",
+    "done": "Ich habe verifiziert"
+  },
+  "setPassword": {
+    "title": "Passwort festlegen",
+    "lede": "Ihr Konto wurde mit Opal oder Terminus eingerichtet. Wählen Sie ein Passwort für den nächsten Zugriff.",
+    "password": "Neues Passwort",
+    "confirm": "Wiederholen Sie es",
+    "submit": "Passwort speichern",
+    "weak": "Verwenden Sie mindestens 8 Zeichen, die doppelt eingegeben werden. Häufige Passwörter werden abgelehnt.",
+    "failed": "Passwort konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "signOut": "Abmelden",
+    "active": "Aktiv",
+    "inactive": "Kein Zugriff",
+    "expires": "Gültig bis {date}",
+    "getAccess": "Opal oder Terminus kaufen",
+    "unknownDevice": "Unbekanntes Gerät",
+    "access": "Zugriff",
+    "noAccess": "Kein Tenacity-Zugriff für dieses Konto. Er ist bei Opal oder Terminus kostenlos enthalten.",
+    "since": "Seit {date}",
+    "noBuilds": "Noch wurden keine Builds veröffentlicht.",
+    "download": "Herunterladen",
+    "security": "Sicherheit",
+    "passkeys": "Passkeys",
+    "noPasskeys": "Noch keine Passkeys.",
+    "addPasskey": "Passkey hinzufügen",
+    "remove": "Entfernen",
+    "sessions": "Sitzungen",
+    "thisDevice": "Dieses Gerät",
+    "revoke": "Sitzung beenden",
+    "signedIn": "Angemeldet am {date}",
+    "loadFailed": "Dieser Abschnitt konnte nicht geladen werden.",
+    "device": "{browser} auf {system}"
+  },
+  "source": {
+    "bundle": "Enthalten beim Kauf Ihres Opal oder Terminus",
+    "purchase": "Erworben",
+    "admin_grant": "Von Mitarbeitern gewährt",
+    "other": "Gewährt"
+  }
+}

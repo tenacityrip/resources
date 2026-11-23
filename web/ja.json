@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "description": "皆が愛するレガシークライアントの、正式に承認された近代化.",
+    "offer": "Included free with an Opal or Terminus license."
+  },
+  "nav": {
+    "dashboard": "ダッシュボード",
+    "purchase": "購入",
+    "toggle": "メニューの切り替え",
+    "goTo": "Go to {section}",
+    "language": "言語",
+    "sections": {
+      "top": "トップ",
+      "trailer": "トレーラー",
+      "info": "機能",
+      "media": "メディア",
+      "faq": "FAQ",
+      "footer": "フッター"
+    }
+  },
+  "landing": {
+    "learnMore": "詳細はこちら",
+    "customize": "Customize <b>Tenacity</b> to your liking with our <b>3</b> ClickGUIs and <b>20+</b> pre-made themes",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "MEDIA",
+    "videoTitle": "Tenacity ビデオ",
+    "faq": "FAQ",
+    "faqLede": "よくある質問"
+  },
+  "faq": {
+    "what": {
+      "q": "What is Tenacity?",
+      "a": "Tenacity is a Minecraft 1.8.9 utility client, first released in March 2021. This is its officially endorsed continuation, maintained by the team behind Opal, rebuilt to run on modern Java with a new renderer and a new scripting engine."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+    },
+    "owner": {
+      "q": "I already own Opal or Terminus. What now?",
+      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "Yes. tenacity.rip is the official, endorsed home of Tenacity and the only place to get current builds. Copies from anywhere else are not ours and are not safe to run."
+    },
+    "expire": {
+      "q": "私のアクセスはいつ切れるのでしょうか？?",
+      "a": "No. Access is lifetime, including future updates, as long as you follow our <terms>Terms of Service</terms>."
+    },
+    "systems": {
+      "q": "対応しているオペレーティングシステムは何ですか？?",
+      "a": "Windows, macOS and Linux."
+    },
+    "version": {
+      "q": "Which Minecraft version does Tenacity run on?",
+      "a": "Minecraft: Java Edition 1.8.9."
+    },
+    "scripts": {
+      "q": "スクリプトを書けますか？",
+      "a": "Yes. Scripts can be written in JavaScript, TypeScript or Lua. The <docs>docs</docs> cover the API, bindings and examples."
+    },
+    "help": {
+      "q": "助けをどこで得られますか？?",
+      "a": "Join our <discord>Discord</discord>."
+    }
+  },
+  "footer": {
+    "explore": "メニュー",
+    "docs": "ドキュメント",
+    "discord": "Discord",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー"
+  },
+  "legal": {
+    "updated": "Last updated {date}",
+    "prevails": "本翻訳は便宜上提供されるものです。英語版と相違がある場合は、英語版が優先されます."
+  },
+  "mail": {
+    "code": {
+      "subject": "Your Tenacity sign-in code",
+      "intro": "このコードを入力してサインインしてください。一度のみ有効で、数分後に期限切れになります.",
+      "footnote": "サインインを試みなかった場合は、このメールを無視して構いません."
+    },
+    "verify": {
+      "subject": "Verify your Tenacity email",
+      "intro": "Confirm this address to open your Tenacity dashboard.",
+      "button": "メールアドレスの確認",
+      "fallback": "If the button does not work, open {url}"
+    }
+  },
+  "login": {
+    "title": "ログイン",
+    "lede": "Use the account you bought Opal or Terminus with.",
+    "email": "メール",
+    "password": "パスワード",
+    "code": "二段階認証コード",
+    "submit": "ログイン",
+    "continue": "続ける",
+    "emailCode": "メールからのコード",
+    "codeSent": "If {email} has an account, we sent it a 6-digit code.",
+    "passkey": "パスキーでサインイン",
+    "invalid": "メールアドレスまたはパスワードが違います。",
+    "codeInvalid": "そのコードは動作しませんでした.",
+    "unavailable": "サインインは現在利用できません。後ほどお試しください."
+  },
+  "verify": {
+    "title": "メールアドレスを確認",
+    "lede": "We sent a link to {email}. Open it, then come back here.",
+    "resend": "リンクを再送信",
+    "sent": "送信済み。受信箱を確認してください。",
+    "done": "確認しました"
+  },
+  "setPassword": {
+    "title": "パスワードを設定",
+    "lede": "Your account came with Opal or Terminus. Pick a password for next time.",
+    "password": "新しいパスワード",
+    "confirm": "もう一度入力してください",
+    "submit": "パスワードを保存",
+    "weak": "最低8文字以上を使用し、同じ文字を2回以上繰り返してください。一般的なパスワードは許可されません.",
+    "failed": "パスワードを保存できませんでした。もう一度お試しください."
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "signOut": "ログアウト",
+    "active": "アクティブ",
+    "inactive": "アクセス不可",
+    "expires": "期限 {date}",
+    "getAccess": "Buy Opal or Terminus",
+    "unknownDevice": "不明なデバイス",
+    "access": "アクセス",
+    "noAccess": "No Tenacity access on this account. It comes free with Opal or Terminus.",
+    "since": "{date} 以降",
+    "noBuilds": "まだビルドは公開されていません.",
+    "download": "ダウンロード",
+    "security": "セキュリティ",
+    "passkeys": "パスキー",
+    "noPasskeys": "パスキーはまだ対応していません。",
+    "addPasskey": "パスキーを追加",
+    "remove": "削除",
+    "sessions": "セッション",
+    "thisDevice": "このデバイス",
+    "revoke": "セッションを終了",
+    "signedIn": "Signed in {date}",
+    "loadFailed": "このセクションを読み込めませんでした.",
+    "device": "{browser} on {system}"
+  },
+  "source": {
+    "bundle": "Included with your Opal or Terminus purchase",
+    "purchase": "購入済み",
+    "admin_grant": "スタッフによる許可",
+    "other": "許可"
+  }
+}

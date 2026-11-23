@@ -1,0 +1,10 @@
+{
+  "name": "tenacity-resources",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node --test",
+    "translate": "node scripts/translate.mjs"
+  }
+}

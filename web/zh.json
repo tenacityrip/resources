@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "description": "每个人最喜爱的经典客户端的官方认证现代化.",
+    "offer": "免费随 Opal 或 Terminus 许可证附赠."
+  },
+  "nav": {
+    "dashboard": "控制台",
+    "purchase": "购买",
+    "toggle": "切换导航",
+    "goTo": "前往 {section}",
+    "language": "语言",
+    "sections": {
+      "top": "顶部",
+      "trailer": "预告片",
+      "info": "功能",
+      "media": "多媒体",
+      "faq": "FAQ",
+      "footer": "页脚"
+    }
+  },
+  "landing": {
+    "learnMore": "了解更多",
+    "customize": "自定义<b>Tenacity</b>，使用我们的<b>3</b>个ClickGUIs和<b>20多个</b>预制主题，打造您专属的风格",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "多媒体",
+    "videoTitle": "Tenacity 视频",
+    "faq": "FAQ",
+    "faqLede": "常见问题解答"
+  },
+  "faq": {
+    "what": {
+      "q": "什么是 Tenacity？",
+      "a": "坚毅 (Tenacity) 是一款 Minecraft 1.8.9 的实用工具客户端，于 2021 年 3 月首次发布。 这是官方认可的延续版本，由 Opal 背后的团队维护，并重新构建于现代 Java 之上，采用新的渲染器和新的脚本引擎."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+    },
+    "owner": {
+      "q": "我已经拥有了Opal或Terminus。现在怎么办？?",
+      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "是的。tenacity.rip 是 Tenacity 的官方、授权网站，也是获取最新版本的唯一途径。从其他地方复制的版本不属于我们，也不安全."
+    },
+    "expire": {
+      "q": "我的访问会过期吗？?",
+      "a": "序号：访问终身有效，包括未来更新，只要您遵守我们的<terms>服务条款</terms>."
+    },
+    "systems": {
+      "q": "支持哪些操作系统？?",
+      "a": "Windows、macOS 和 Linux"
+    },
+    "version": {
+      "q": "Tenacity 使用的是哪个版本的 Minecraft？?",
+      "a": "Minecraft: Java 版 1.8.9"
+    },
+    "scripts": {
+      "q": "我可以编写脚本吗？",
+      "a": "是的。脚本可以使用 JavaScript、TypeScript 或 Lua 编写。<docs>文档</docs>涵盖了 API、绑定和示例."
+    },
+    "help": {
+      "q": "我该去哪里寻求帮助？?",
+      "a": "加入我们的 <discord>Discord</discord>"
+    }
+  },
+  "footer": {
+    "explore": "探索",
+    "docs": "文档",
+    "discord": "Discord",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
+  "legal": {
+    "updated": "最后更新 {date}",
+    "prevails": "本译文仅供参考。如有与英文版差异，以英文版为准."
+  },
+  "mail": {
+    "code": {
+      "subject": "您的 Tenacity 登录码",
+      "intro": "请输入此代码以登录。它仅能使用一次，并在几分钟后失效.",
+      "footnote": "如果您没有尝试登录，您可以忽略这封邮件."
+    },
+    "verify": {
+      "subject": "验证您的 Tenacity 邮箱",
+      "intro": "Confirm this address to open your Tenacity dashboard.",
+      "button": "验证邮箱",
+      "fallback": "如果按钮无法工作，请打开{url}"
+    }
+  },
+  "login": {
+    "title": "登录",
+    "lede": "使用您购买 Opal 或 Terminus 时使用的帐户.",
+    "email": "邮箱",
+    "password": "密码",
+    "code": "双重验证码",
+    "submit": "登录",
+    "continue": "继续",
+    "emailCode": "邮件中的验证码",
+    "codeSent": "如果{email}有账户，我们已向其发送了一组六位数的验证码.",
+    "passkey": "使用通行证登录",
+    "invalid": "邮箱或密码错误",
+    "codeInvalid": "那个代码没有用.",
+    "unavailable": "目前无法签入。请稍后再试."
+  },
+  "verify": {
+    "title": "验证邮箱",
+    "lede": "我们把链接发给了{email}。打开它，然后回来这里.",
+    "resend": "重新发送链接",
+    "sent": "已发送。请查收收件箱。",
+    "done": "已验证"
+  },
+  "setPassword": {
+    "title": "设置密码",
+    "lede": "您的账户附带了 Opal 或 Terminus。请设置一个密码以备下次使用.",
+    "password": "新密码",
+    "confirm": "再次输入",
+    "submit": "保存密码",
+    "weak": "至少使用八个字符，且重复输入一次。常见密码将被拒绝.",
+    "failed": "无法保存密码。请重试."
+  },
+  "dashboard": {
+    "title": "控制台",
+    "signOut": "登出",
+    "active": "激活",
+    "inactive": "无访问权限",
+    "expires": "过期于 {date}",
+    "getAccess": "购买 Opal 或 Terminus",
+    "unknownDevice": "未知设备",
+    "access": "访问",
+    "noAccess": "此帐户无法使用 Tenacity 访问。Opal 或 Terminus 会员包含此功能.",
+    "since": "自 {date} 起",
+    "noBuilds": "目前尚未发布任何构建.",
+    "download": "下载",
+    "security": "安全",
+    "passkeys": "通行密钥",
+    "noPasskeys": "暂无密钥",
+    "addPasskey": "添加密钥",
+    "remove": "移除",
+    "sessions": "会话",
+    "thisDevice": "此设备",
+    "revoke": "结束会话",
+    "signedIn": "已于 {date} 登录",
+    "loadFailed": "无法加载此部分.",
+    "device": "{browser} 在 {system}"
+  },
+  "source": {
+    "bundle": "随 Opal 或 Terminus 购买即赠",
+    "purchase": "已购买",
+    "admin_grant": "职员授权",
+    "other": "授权"
+  }
+}

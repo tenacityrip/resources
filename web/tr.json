@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: Minecraft 1.8.9'un resmi istemcisi",
+    "description": "Herkesin favori eski istemcisinin resmen onaylanmış modernizasyonu.",
+    "offer": "Opal veya Terminus lisansı ile birlikte ücretsiz olarak dahildir."
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "purchase": "Satın al",
+    "toggle": "Menüyü aç/kapat",
+    "goTo": "{section} bölümüne gidin",
+    "language": "Dil",
+    "sections": {
+      "top": "sayfa başı",
+      "trailer": "fragman",
+      "info": "özellikler",
+      "media": "Medya",
+      "faq": "FAQ",
+      "footer": "alt bilgi"
+    }
+  },
+  "landing": {
+    "learnMore": "Daha Fazla Bilgi Edinin",
+    "customize": "Customize <b>Tenacity</b> to your liking with our <b>3</b> ClickGUIs and <b>20+</b> pre-made themes",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "MEDYA",
+    "videoTitle": "Tenacity videosu",
+    "faq": "FAQ",
+    "faqLede": "Sıkça Sorulan Sorular"
+  },
+  "faq": {
+    "what": {
+      "q": "Tenacity nedir?",
+      "a": "Tenacity, Minecraft 1.8.9 için bir yardımcı istemcidir ve ilk olarak Mart 2021'de yayınlanmıştır. Bu, Opal ekibi tarafından desteklenen ve modern Java üzerinde çalışacak şekilde yeniden inşa edilen, yeni bir render ve yeni bir betik motoruna sahip olan resmi devamıdır."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "<purchase>Opal</purchase> veya Terminus satın alımıyla birlikte azim ücretsizdir. Ayrı olarak satılmaz. Bunlardan birini satın alın, ardından Tenacity'yi indirmek için aynı hesapla <dashboard>dashboard</dashboard>'a giriş yapın."
+    },
+    "owner": {
+      "q": "Zaten Opal veya Terminus'a sahibim. Şimdi ne olacak?",
+      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "Evet. tenacity.rip, Tenacity'nin resmi, onaylı adresi ve güncel yapılar edinilebilecek tek yerdir. Başka yerlerden kopyalananlar bize ait değildir ve çalıştırılması güvenli değildir."
+    },
+    "expire": {
+      "q": "Erişimim hiç sona erecek mi?",
+      "a": "Hayır. Erişim, gelecekteki güncellemeleri de kapsayarak ömür boyu sürelidir, <terms>Hizim Koşullarımızı</terms> takip ettiğiniz sürece."
+    },
+    "systems": {
+      "q": "Hangi işletim sistemleri destekleniyor?",
+      "a": "Windows, macOS ve Linux."
+    },
+    "version": {
+      "q": "Tenacity hangi Minecraft sürümünde çalışıyor?",
+      "a": "Minecraft: Java Edition 1.8.9."
+    },
+    "scripts": {
+      "q": "Betikler yazabilir miyim?",
+      "a": "Evet. Betikler JavaScript, TypeScript veya Lua ile yazılabilir. <docs>Belgeler</docs> API'yi, bağlamaları ve örnekleri kapsar."
+    },
+    "help": {
+      "q": "Yardım nerede bulabilirim?",
+      "a": "Discordumuza katılın: <discord>Discord</discord>."
+    }
+  },
+  "footer": {
+    "explore": "KEŞFET",
+    "docs": "Belgeler",
+    "discord": "Discord",
+    "terms": "Hizmet Şartları",
+    "privacy": "Gizlilik Politikası"
+  },
+  "legal": {
+    "updated": "Son güncelleme {date} tarihinde.",
+    "prevails": "Bu çeviri kolaylık sağlamak amacıyla sunulmuştur. İngilizce versiyonundan farklılık gösteriyorsa, İngilizce versiyon geçerlidir."
+  },
+  "mail": {
+    "code": {
+      "subject": "Tenacity giriş kodunuz",
+      "intro": "Bu kodu girerek giriş yapın. Bir kere çalışır ve birkaç dakika içinde geçerliliğini yitirir.",
+      "footnote": "Eğer giriş yapmaya çalışmadıysanız, bu e-postayı önemsemenize gerek yok."
+    },
+    "verify": {
+      "subject": "Tenacity e-postanızı doğrulayın",
+      "intro": "Bu adresi doğrulayarak Tenacity panonuzu açın.",
+      "button": "E-postayı doğrulayın",
+      "fallback": "Düğme çalışmazsa, {url}'ı açın"
+    }
+  },
+  "login": {
+    "title": "Giriş yap",
+    "lede": "Opal veya Terminus ile satın aldığınız hesabı kullanın.",
+    "email": "E-posta",
+    "password": "Şifre",
+    "code": "İki faktörlü kod",
+    "submit": "Giriş yap",
+    "continue": "Devam",
+    "emailCode": "E-postanızdan gelen kod",
+    "codeSent": "{email}'nin bir hesabı varsa, ona 6 haneli bir kod gönderdik.",
+    "passkey": "Parola anahtarıyla giriş yapın",
+    "invalid": "Yanlış e-posta veya şifre.",
+    "codeInvalid": "O kod çalışmadı.",
+    "unavailable": "Giriş şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin."
+  },
+  "verify": {
+    "title": "E-postanızı doğrulayın",
+    "lede": "{email}'a bir bağlantı gönderdik. Aç onu, sonra buraya geri gel.",
+    "resend": "Bağlantıyı tekrar gönder",
+    "sent": "Gönderildi. Gelen kutunuzu kontrol edin.",
+    "done": "Doğruladım"
+  },
+  "setPassword": {
+    "title": "Şifre belirle",
+    "lede": "Hesabınız Opal veya Terminus ile birlikte geldi. Bir sonraki kullanım için bir şifre seçin.",
+    "password": "Yeni şifre",
+    "confirm": "Tekrar edin",
+    "submit": "Şifreyi kaydet",
+    "weak": "En az 8 karakter kullanın, aynı şekilde iki kez yazılmış olmalı. Yaygın şifreler kabul edilmiyor.",
+    "failed": "Şifreyi kaydedemedik. Tekrar deneyin."
+  },
+  "dashboard": {
+    "title": "Panel",
+    "signOut": "Çıkış yap",
+    "active": "Aktif",
+    "inactive": "Erişim yok",
+    "expires": "Sona eriyor {date}",
+    "getAccess": "Opal veya Terminus satın alın",
+    "unknownDevice": "Bilinmeyen cihaz",
+    "access": "Erişim",
+    "noAccess": "Bu hesapta Tenacity erişimi yok. Opal veya Terminus ile birlikte ücretsiz geliyor.",
+    "since": "Bereli {date}",
+    "noBuilds": "Henüz hiçbir derleme yayınlanmadı.",
+    "download": "İndir",
+    "security": "Güvenlik",
+    "passkeys": "Geçiş anahtarları",
+    "noPasskeys": "Henüz parola anahtarı yok.",
+    "addPasskey": "Parola anahtarı ekle",
+    "remove": "Kaldır",
+    "sessions": "Oturumlar",
+    "thisDevice": "Bu cihaz",
+    "revoke": "Oturumu sonlandır",
+    "signedIn": "{date} tarihinde giriş yapıldı",
+    "loadFailed": "Bu bölüm yüklenemedi.",
+    "device": "{browser} üzerinde {system}"
+  },
+  "source": {
+    "bundle": "Opal veya Terminus satın alımınızla birlikte dahildir",
+    "purchase": "Satın alındı",
+    "admin_grant": "Personel tarafından verildi",
+    "other": "Verildi"
+  }
+}

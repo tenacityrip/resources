@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "description": "Oficjalnie zatwierdzone ulepszenie ulubionego, sprawdzonego klienta.",
+    "offer": "W zestawie bezpłatnie z licencją Opal lub Terminus."
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "purchase": "Kup",
+    "toggle": "Przełącz nawigację",
+    "goTo": "Przejdź do {section}",
+    "language": "Język",
+    "sections": {
+      "top": "góra strony",
+      "trailer": "zwiastun",
+      "info": "funkcje",
+      "media": "media",
+      "faq": "FAQ",
+      "footer": "stopka"
+    }
+  },
+  "landing": {
+    "learnMore": "Dowiedz się więcej",
+    "customize": "Dostosuj <b>Tenacity</b> do swoich preferencji za pomocą naszych <b>3</b> ClickGUIs i <b>20+</b> gotowych motywów",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "MEDIA",
+    "videoTitle": "Film Tenacity",
+    "faq": "FAQ",
+    "faqLede": "Najczęściej zadawane pytania"
+  },
+  "faq": {
+    "what": {
+      "q": "Co to jest Tenacity?",
+      "a": "Tenacity is a Minecraft 1.8.9 utility client, first released in March 2021. This is its officially endorsed continuation, maintained by the team behind Opal, rebuilt to run on modern Java with a new renderer and a new scripting engine."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+    },
+    "owner": {
+      "q": "Już posiadam Opal lub Terminus. Co teraz?",
+      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "Tak. tenacity.rip to oficjalna, zatwierdzona strona domowa Tenacity i jedyne miejsce, gdzie można pobrać aktualne wersje. Kopie z innych źródeł nie należą do nas i nie są bezpieczne do uruchomienia."
+    },
+    "expire": {
+      "q": "Czy kiedykolwiek stracę dostęp?",
+      "a": "Nie. Dostęp jest dożywotni, obejmuje przyszłe aktualizacje, o ile przestrzegasz naszych <terms>Regulaminu</terms>."
+    },
+    "systems": {
+      "q": "Jakie systemy operacyjne są obsługiwane?",
+      "a": "Windows, macOS i Linux."
+    },
+    "version": {
+      "q": "Na jakiej wersji Minecrafta działa Tenacity?",
+      "a": "Minecraft: Java Edition 1.8.9."
+    },
+    "scripts": {
+      "q": "Czy mogę pisać skrypty?",
+      "a": "Tak. Skrypty można pisać w JavaScript, TypeScript lub Lua. <docs>Dokumentacja</docs> obejmuje API, wiązania i przykłady."
+    },
+    "help": {
+      "q": "Gdzie mogę otrzymać pomoc?",
+      "a": "Dołącz do naszego <discord>Discorda</discord>."
+    }
+  },
+  "footer": {
+    "explore": "ODKRYWAJ",
+    "docs": "Dokumentacja",
+    "discord": "Discord",
+    "terms": "Regulamin",
+    "privacy": "Polityka prywatności"
+  },
+  "legal": {
+    "updated": "Ostatnia aktualizacja {date}",
+    "prevails": "Tłumaczenie to usługa udostępniona dla wygody. W przypadku rozbieżności z wersją angielską, decydująca jest wersja angielska."
+  },
+  "mail": {
+    "code": {
+      "subject": "Twój kod logowania do Tenacity",
+      "intro": "Wprowadź ten kod, aby się zalogować. Działa on raz i wygasa za kilka minut.",
+      "footnote": "Jeśli nie próbowałeś/łaś się zalogować, możesz zignorować tę wiadomość e-mail."
+    },
+    "verify": {
+      "subject": "Zweryfikuj swój adres e-mail Tenacity",
+      "intro": "Potwierdź ten adres, aby otworzyć panel Tenacity.",
+      "button": "Zweryfikuj e-mail",
+      "fallback": "Jeśli przycisk nie działa, otwórz {url}"
+    }
+  },
+  "login": {
+    "title": "Zaloguj się",
+    "lede": "Użyj konta, z którym kupiłeś Opal lub Terminus.",
+    "email": "Adres e-mail",
+    "password": "Hasło",
+    "code": "Kod uwierzytelniania dwuskładnikowego",
+    "submit": "Zaloguj się",
+    "continue": "Dalej",
+    "emailCode": "Kod z Twojej poczty e-mail",
+    "codeSent": "Jeśli {email} ma konto, wysłaliśmy na nie 6-cyfrowy kod.",
+    "passkey": "Zaloguj się za pomocą klucza dostępu",
+    "invalid": "Błędny adres e-mail lub hasło.",
+    "codeInvalid": "Ten kod nie działał.",
+    "unavailable": "Logowanie jest niedostępne w tym momencie. Spróbuj ponownie później."
+  },
+  "verify": {
+    "title": "Zweryfikuj swój adres e-mail",
+    "lede": "Wysłaliśmy link do {email}. Otwórz go, a potem wróć tutaj.",
+    "resend": "Wyślij link ponownie",
+    "sent": "Wysłano. Sprawdź swoją skrzynkę odbiorczą.",
+    "done": "Zweryfikowałem/Zweryfikowałam"
+  },
+  "setPassword": {
+    "title": "Ustaw hasło",
+    "lede": "Twoje konto zostało utworzone z Opalem lub Terminus. Wybierz hasło na następny raz.",
+    "password": "Nowe hasło",
+    "confirm": "Powtórz je",
+    "submit": "Zapisz hasło",
+    "weak": "Użyj hasła składającego się co najmniej z 8 znaków, wpisanego dwukrotnie. Popularne hasła są odrzucane.",
+    "failed": "Nie udało się zapisać hasła. Spróbuj ponownie."
+  },
+  "dashboard": {
+    "title": "Panel",
+    "signOut": "Wyloguj się",
+    "active": "Aktywny/Aktywna",
+    "inactive": "Brak dostępu",
+    "expires": "Ważne do {date}",
+    "getAccess": "Kup Opal lub Terminus",
+    "unknownDevice": "Nieznane urządzenie",
+    "access": "Dostęp",
+    "noAccess": "Brak dostępu do Tenacity dla tego konta. Jest on bezpłatny z Opalem lub Terminus.",
+    "since": "Od {date}",
+    "noBuilds": "Jeszcze żadne kompilacje nie zostały opublikowane.",
+    "download": "Pobierz",
+    "security": "Bezpieczeństwo",
+    "passkeys": "Klucze dostępu",
+    "noPasskeys": "Jeszcze brak kluczy dostępu.",
+    "addPasskey": "Dodaj klucz dostępu",
+    "remove": "Usuń",
+    "sessions": "Sesje",
+    "thisDevice": "To urządzenie",
+    "revoke": "Zakończ sesję",
+    "signedIn": "Zalogowano {date}",
+    "loadFailed": "Nie udało się załadować tej sekcji.",
+    "device": "{browser} na {system}"
+  },
+  "source": {
+    "bundle": "Dołączone do zakupu Opal lub Terminus",
+    "purchase": "Zakupione",
+    "admin_grant": "Przyznane przez personel",
+    "other": "Przyznane"
+  }
+}

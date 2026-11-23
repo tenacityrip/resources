@@ -1,0 +1,10 @@
+# Tenacity resources
+
+> Translations for the Tenacity client and website.
+
+- [README](README.md): layout, rules and commands
+- [CLAUDE.md](CLAUDE.md): how to work here
+- [CONTRIBUTING](CONTRIBUTING.md): fixing translations
+- [manifest.json](manifest.json): languages and live version
+- [English client text](lang/tenacity/stable/7.0.0/en.lang)
+- [English website text](web/en.json)

@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "description": "التحديث الرسمي المدعوم لعميلنا المفضل الكلاسيكي.",
+    "offer": "Included free with an Opal or Terminus license."
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "purchase": "شراء",
+    "toggle": "تبديل القائمة",
+    "goTo": "Go to {section}",
+    "language": "اللغة",
+    "sections": {
+      "top": "أعلى الصفحة",
+      "trailer": "العرض الدعائي",
+      "info": "المزايا",
+      "media": "الوسائط",
+      "faq": "FAQ",
+      "footer": "التذييل"
+    }
+  },
+  "landing": {
+    "learnMore": "معرفة المزيد",
+    "customize": "Customize <b>Tenacity</b> to your liking with our <b>3</b> ClickGUIs and <b>20+</b> pre-made themes",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "وسائل الإعلام",
+    "videoTitle": "Tenacity فيديو",
+    "faq": "FAQ",
+    "faqLede": "الأسئلة الشائعة"
+  },
+  "faq": {
+    "what": {
+      "q": "What is Tenacity?",
+      "a": "Tenacity is a Minecraft 1.8.9 utility client, first released in March 2021. This is its officially endorsed continuation, maintained by the team behind Opal, rebuilt to run on modern Java with a new renderer and a new scripting engine."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+    },
+    "owner": {
+      "q": "I already own Opal or Terminus. What now?",
+      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "Yes. tenacity.rip is the official, endorsed home of Tenacity and the only place to get current builds. Copies from anywhere else are not ours and are not safe to run."
+    },
+    "expire": {
+      "q": "هل ستنتهي صلاحية وصولي؟?",
+      "a": "No. Access is lifetime, including future updates, as long as you follow our <terms>Terms of Service</terms>."
+    },
+    "systems": {
+      "q": "ما هي أنظمة التشغيل المدعومة؟?",
+      "a": "Windows, macOS and Linux."
+    },
+    "version": {
+      "q": "Which Minecraft version does Tenacity run on?",
+      "a": "Minecraft: Java Edition 1.8.9."
+    },
+    "scripts": {
+      "q": "هل يمكنني كتابة النصوص البرمجية؟",
+      "a": "Yes. Scripts can be written in JavaScript, TypeScript or Lua. The <docs>docs</docs> cover the API, bindings and examples."
+    },
+    "help": {
+      "q": "أين أجد مساعدة؟?",
+      "a": "Join our <discord>Discord</discord>."
+    }
+  },
+  "footer": {
+    "explore": "استكشف",
+    "docs": "الوثائق",
+    "discord": "Discord",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية"
+  },
+  "legal": {
+    "updated": "Last updated {date}",
+    "prevails": "تم توفير هذا الترجمة للتسهيل. في حال وجود اختلاف مع النسخة الإنجليزية، تبقى النسخة الإنجليزية هي السائدة."
+  },
+  "mail": {
+    "code": {
+      "subject": "Your Tenacity sign-in code",
+      "intro": "أدخل هذا الرمز لتسجيل الدخول. يعمل مرة واحدة وينتهي صلاحيته خلال بضع دقائق.",
+      "footnote": "إذا لم تحاول تسجيل الدخول، يمكنك تجاهل هذا البريد الإلكتروني."
+    },
+    "verify": {
+      "subject": "Verify your Tenacity email",
+      "intro": "Confirm this address to open your Tenacity dashboard.",
+      "button": "التحقق من البريد الإلكتروني",
+      "fallback": "If the button does not work, open {url}"
+    }
+  },
+  "login": {
+    "title": "تسجيل الدخول",
+    "lede": "Use the account you bought Opal or Terminus with.",
+    "email": "بريد إلكتروني",
+    "password": "كلمة المرور",
+    "code": "رمز التحقق بخطوتين",
+    "submit": "تسجيل الدخول",
+    "continue": "مواصلة",
+    "emailCode": "الرمز من بريدك الإلكتروني",
+    "codeSent": "If {email} has an account, we sent it a 6-digit code.",
+    "passkey": "سجّل الدخول باستخدام مفتاح مرور",
+    "invalid": "عنوان بريد إلكتروني أو كلمة مرور خاطئة.",
+    "codeInvalid": "لم يعمل هذا الكود.",
+    "unavailable": "تسجيل الدخول غير متاح حاليًا. حاول مرة أخرى قريبًا."
+  },
+  "verify": {
+    "title": "التحقق من بريدك الإلكتروني",
+    "lede": "We sent a link to {email}. Open it, then come back here.",
+    "resend": "إعادة إرسال الرابط",
+    "sent": "تم الإرسال. تحقق من صندوق الوارد الخاص بك.",
+    "done": "لقد قمت بالتحقق"
+  },
+  "setPassword": {
+    "title": "تعيين كلمة مرور",
+    "lede": "Your account came with Opal or Terminus. Pick a password for next time.",
+    "password": "كلمة مرور جديدة",
+    "confirm": "كررها",
+    "submit": "حفظ كلمة المرور",
+    "weak": "يجب أن يتكون كلمة المرور من 8 أحرف على الأقل، مع تكرار الأحرف. تُرفض كلمات المرور الشائعة.",
+    "failed": "لم يتم حفظ كلمة المرور. حاول مرة أخرى."
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "signOut": "تسجيل الخروج",
+    "active": "نشط",
+    "inactive": "لا يوجد وصول",
+    "expires": "ينتهي العمل {date}",
+    "getAccess": "Buy Opal or Terminus",
+    "unknownDevice": "جهاز غير معروف",
+    "access": "الوصول",
+    "noAccess": "No Tenacity access on this account. It comes free with Opal or Terminus.",
+    "since": "منذ {date}",
+    "noBuilds": "لم يتم نشر أي عمليات بناء حتى الآن.",
+    "download": "تنزيل",
+    "security": "الأمان",
+    "passkeys": "مفاتيح المرور",
+    "noPasskeys": "لم يتم إضافة مفاتيح المرور بعد.",
+    "addPasskey": "إضافة مفتاح مرور",
+    "remove": "إزالة",
+    "sessions": "الجلسات",
+    "thisDevice": "هذا الجهاز",
+    "revoke": "إنهاء الجلسة",
+    "signedIn": "Signed in {date}",
+    "loadFailed": "لم يتم تحميل هذا القسم.",
+    "device": "{browser} on {system}"
+  },
+  "source": {
+    "bundle": "Included with your Opal or Terminus purchase",
+    "purchase": "مُشتَرى",
+    "admin_grant": "مُمنوح من الموظفين",
+    "other": "مُمنوح"
+  }
+}

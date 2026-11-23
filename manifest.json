@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "locales": [
+    {
+      "code": "en",
+      "nativeName": "English",
+      "rtl": false
+    },
+    {
+      "code": "de",
+      "nativeName": "Deutsch",
+      "rtl": false
+    },
+    {
+      "code": "fr",
+      "nativeName": "Français",
+      "rtl": false
+    },
+    {
+      "code": "it",
+      "nativeName": "Italiano",
+      "rtl": false
+    },
+    {
+      "code": "pl",
+      "nativeName": "Polski",
+      "rtl": false
+    },
+    {
+      "code": "ru",
+      "nativeName": "Русский",
+      "rtl": false
+    },
+    {
+      "code": "tr",
+      "nativeName": "Türkçe",
+      "rtl": false
+    },
+    {
+      "code": "zh",
+      "nativeName": "中文",
+      "rtl": false
+    },
+    {
+      "code": "ja",
+      "nativeName": "日本語",
+      "rtl": false
+    },
+    {
+      "code": "ar",
+      "nativeName": "العربية",
+      "rtl": true
+    }
+  ],
+  "themes": [],
+  "sections": [],
+  "defaultLocale": "en",
+  "products": {
+    "tenacity": {
+      "kinds": [
+        "lang"
+      ],
+      "defaultLocale": "en",
+      "streams": {
+        "stable": {
+          "active": "7.0.0",
+          "versions": [
+            "7.0.0"
+          ]
+        },
+        "canary": {
+          "active": null,
+          "versions": []
+        },
+        "nightly": {
+          "active": null,
+          "versions": []
+        }
+      }
+    }
+  }
+}

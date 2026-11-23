@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "description": "La modernizzazione ufficialmente approvata del client legacy preferito da tutti.",
+    "offer": "Incluso gratuitamente con una licenza Opal o Terminus."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "purchase": "Acquista",
+    "toggle": "Mostra/nascondi menu",
+    "goTo": "Vai a {section}",
+    "language": "Lingua",
+    "sections": {
+      "top": "inizio",
+      "trailer": "trailer",
+      "info": "funzioni",
+      "media": "Media",
+      "faq": "FAQ",
+      "footer": "piè di pagina"
+    }
+  },
+  "landing": {
+    "learnMore": "Scopri di più",
+    "customize": "Personalizza <b>Tenacity</b> secondo le tue preferenze con le nostre <b>3</b> ClickGUIs e <b>20+</b> temi predefiniti",
+    "guiAlt": "Tenacity ClickGUI",
+    "media": "MEDIA",
+    "videoTitle": "Video Tenacity",
+    "faq": "FAQ",
+    "faqLede": "Domande frequenti"
+  },
+  "faq": {
+    "what": {
+      "q": "Cos'è Tenacity?",
+      "a": "La Tenacity è un client utility per Minecraft 1.8.9, rilasciato per la prima volta nel marzo del 2021. Questa è la sua continuazione ufficialmente supportata, mantenuta dal team dietro Opal, ricostruita per funzionare con Java moderno, con un nuovo renderer e un nuovo motore di scripting."
+    },
+    "get": {
+      "q": "How do I get Tenacity?",
+      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+    },
+    "owner": {
+      "q": "Ho già Opal o Terminus. E ora?",
+      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+    },
+    "real": {
+      "q": "Is this the real Tenacity?",
+      "a": "Sì. tenacity.rip è la sede ufficiale e approvata di Tenacity e l'unico posto dove trovare le versioni più recenti. Le copie provenienti da qualsiasi altra fonte non sono nostre e non sono sicure da eseguire."
+    },
+    "expire": {
+      "q": "Scadrà mai il mio accesso?",
+      "a": "No. L'accesso è a vita, inclusi gli aggiornamenti futuri, fintanto che si rispettano i nostri <terms>Termini di Servizio</terms>."
+    },
+    "systems": {
+      "q": "Quali sistemi operativi sono supportati?",
+      "a": "Windows, macOS e Linux."
+    },
+    "version": {
+      "q": "Su quale versione di Minecraft gira Tenacity?",
+      "a": "Minecraft: Java Edition 1.8.9."
+    },
+    "scripts": {
+      "q": "Posso scrivere script?",
+      "a": "Sì. Gli script possono essere scritti in JavaScript, TypeScript o Lua. La <docs>documentazione</docs> copre l'API, i binding e gli esempi."
+    },
+    "help": {
+      "q": "Dove posso trovare aiuto?",
+      "a": "Unisciti al nostro <discord>Discord</discord>."
+    }
+  },
+  "footer": {
+    "explore": "ESPLORA",
+    "docs": "Documentazione",
+    "discord": "Discord",
+    "terms": "Termini di servizio",
+    "privacy": "Informativa sulla privacy"
+  },
+  "legal": {
+    "updated": "Aggiornato l'ultima volta il {date}",
+    "prevails": "Questa traduzione è fornita a scopo puramente informativo. In caso di discordanze con la versione inglese, quest'ultima prevale."
+  },
+  "mail": {
+    "code": {
+      "subject": "Il tuo codice di accesso Tenacity",
+      "intro": "Inserisci questo codice per accedere. Funziona una volta e scade tra pochi minuti.",
+      "footnote": "Se non hai provato ad accedere, puoi ignorare questa email."
+    },
+    "verify": {
+      "subject": "Verifica la tua email Tenacity",
+      "intro": "Conferma questo indirizzo per aprire la tua dashboard di Tenacity.",
+      "button": "Verifica email",
+      "fallback": "Se il pulsante non funziona, aprire {url}"
+    }
+  },
+  "login": {
+    "title": "Accedi",
+    "lede": "Utilizza l'account con cui hai acquistato Opal o Terminus.",
+    "email": "Email",
+    "password": "Password",
+    "code": "Codice a due fattori",
+    "submit": "Accedi",
+    "continue": "Continua",
+    "emailCode": "Codice dalla tua email",
+    "codeSent": "Se {email} ha un account, gli abbiamo inviato un codice di 6 cifre.",
+    "passkey": "Accedi con una passkey",
+    "invalid": "Email o password errate.",
+    "codeInvalid": "Quel codice non ha funzionato.",
+    "unavailable": "L'accesso non è disponibile al momento. Riprova più tardi."
+  },
+  "verify": {
+    "title": "Verifica la tua email",
+    "lede": "Abbiamo inviato un link a {email}. Aprilo, poi torna qui.",
+    "resend": "Rinvia il link",
+    "sent": "Inviato. Controlla la tua casella di posta.",
+    "done": "Ho verificato"
+  },
+  "setPassword": {
+    "title": "Imposta una password",
+    "lede": "Il tuo account includeva Opal o Terminus. Scegli una password per la prossima volta.",
+    "password": "Nuova password",
+    "confirm": "Ripetila",
+    "submit": "Salva password",
+    "weak": "Utilizza almeno 8 caratteri, digitati due volte. Le password comuni non sono accettate.",
+    "failed": "Impossibile salvare la password. Riprova."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "signOut": "Esci",
+    "active": "Attivo",
+    "inactive": "Nessun accesso",
+    "expires": "Scade {date}",
+    "getAccess": "Acquista Opal o Terminus",
+    "unknownDevice": "Dispositivo sconosciuto",
+    "access": "Accesso",
+    "noAccess": "Nessun accesso a Tenacity per questo account. È incluso gratuitamente con Opal o Terminus.",
+    "since": "Da {date}",
+    "noBuilds": "Nessuna build è stata ancora pubblicata.",
+    "download": "Download",
+    "security": "Sicurezza",
+    "passkeys": "Passkey",
+    "noPasskeys": "Nessuna passkey al momento.",
+    "addPasskey": "Aggiungi una passkey",
+    "remove": "Rimuovi",
+    "sessions": "Sessioni",
+    "thisDevice": "Questo dispositivo",
+    "revoke": "Termina sessione",
+    "signedIn": "Accesso effettuato il {date}",
+    "loadFailed": "Non è stato possibile caricare questa sezione.",
+    "device": "{browser} su {system}"
+  },
+  "source": {
+    "bundle": "Incluso con l'acquisto di Opal o Terminus",
+    "purchase": "Acquistato",
+    "admin_grant": "Concesso dallo staff",
+    "other": "Concesso"
+  }
+}

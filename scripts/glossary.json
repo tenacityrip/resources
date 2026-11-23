@@ -77,7 +77,7 @@
     "ar": "السكربتات"
   },
   "Configs": {
-    "de": "Konfigurationen",
+    "de": "Configs",
     "fr": "Configs",
     "it": "Config",
     "pl": "Konfiguracje",
@@ -85,7 +85,7 @@
     "tr": "Ayar dosyaları",
     "zh": "配置",
     "ja": "設定ファイル",
-    "ar": "الإعدادات المحفوظة"
+    "ar": "الإعدادات"
   },
   "Mode": {
     "de": "Modus",

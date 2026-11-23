@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "title": "Tenacity Client : le client officiel pour Minecraft 1.8.9",
     "description": "La modernisation officielle de l'application héritée préférée de tous.",
     "offer": "Inclus gratuitement avec une licence Opal ou Terminus."
   },
@@ -31,18 +31,18 @@
   "faq": {
     "what": {
       "q": "Qu'est-ce que Tenacity ?",
-      "a": "Tenacity is a Minecraft 1.8.9 utility client, first released in March 2021. This is its officially endorsed continuation, maintained by the team behind Opal, rebuilt to run on modern Java with a new renderer and a new scripting engine."
+      "a": "Tenacity est un client utilitaire pour Minecraft 1.8.9, sorti pour la première fois en mars 2021. Voici sa suite officiellement approuvée, maintenue par l'équipe d'Opal et reconstruite pour Java moderne, avec un nouveau moteur de rendu et un nouveau moteur de scripts."
     },
     "get": {
-      "q": "How do I get Tenacity?",
-      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+      "q": "Comment obtenir Tenacity ?",
+      "a": "Tenacity est offert avec <purchase>Opal</purchase> ou Terminus. Il n'est pas vendu séparément. Achetez l'un des deux, puis connectez-vous au <dashboard>tableau de bord</dashboard> avec le même compte pour télécharger Tenacity."
     },
     "owner": {
-      "q": "Je possède déjà Opal ou Terminus. Et maintenant, quoi ?",
-      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+      "q": "Je possède déjà Opal ou Terminus. Et maintenant ?",
+      "a": "Connectez-vous au <dashboard>tableau de bord</dashboard> avec l'adresse e-mail utilisée pour l'achat. Tenacity est déjà sur votre compte."
     },
     "real": {
-      "q": "Is this the real Tenacity?",
+      "q": "Est-ce le vrai Tenacity ?",
       "a": "Oui. tenacity.rip est le site officiel, approuvé pour Tenacity, et le seul endroit pour obtenir les versions actuelles. Les copies provenant d'autres sources ne nous appartiennent pas et ne sont pas sûres à exécuter."
     },
     "expire": {
@@ -130,7 +130,7 @@
     "getAccess": "Achetez Opal ou Terminus",
     "unknownDevice": "Appareil inconnu",
     "access": "Accéder",
-    "noAccess": "No Tenacity access on this account. It comes free with Opal or Terminus.",
+    "noAccess": "Ce compte n'a pas accès à Tenacity. Il est offert avec Opal ou Terminus.",
     "since": "Depuis le {date}",
     "noBuilds": "Aucune publication n'est encore disponible.",
     "download": "Télécharger",

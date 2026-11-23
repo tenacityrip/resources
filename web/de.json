@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Tenacity Client: der offizielle Minecraft 1.8.9 Client",
+    "title": "Tenacity Client: der offizielle Minecraft-1.8.9-Client",
     "description": "Die offiziell unterstützte Modernisierung des beliebtesten Legacy-Clients.",
-    "offer": "Kostenlos enthalten bei einem Opal- oder Terminus-Lizenz."
+    "offer": "Kostenlos bei einer Opal- oder Terminus-Lizenz enthalten."
   },
   "nav": {
     "dashboard": "Dashboard",
@@ -31,18 +31,18 @@
   "faq": {
     "what": {
       "q": "Was ist Tenacity?",
-      "a": "Tenacity ist ein Minecraft 1.8.9 Utility-Client, der erstmals im März 2021 veröffentlicht wurde. Dies ist die offizielle Fortsetzung, die vom Team hinter Opal gepflegt wird und auf moderner Java mit einem neuen Renderer und einer neuen Skript-Engine neu aufgebaut wurde."
+      "a": "Tenacity ist ein Utility-Client für Minecraft 1.8.9, der erstmals im März 2021 erschien. Dies ist die offiziell unterstützte Fortsetzung, betreut vom Team hinter Opal und neu aufgebaut für modernes Java, mit neuem Renderer und neuer Skript-Engine."
     },
     "get": {
-      "q": "How do I get Tenacity?",
-      "a": "Tenacity ist <purchase>Opal</purchase> oder Terminus kostenfrei beigefügt. Es wird nicht einzeln verkauft. Kaufen Sie eines davon und melden Sie sich anschließend mit demselben Konto im <dashboard>Dashboard</dashboard> an, um Tenacity herunterzuladen."
+      "q": "Wie bekomme ich Tenacity?",
+      "a": "Tenacity ist bei <purchase>Opal</purchase> oder Terminus kostenlos enthalten. Es wird nicht einzeln verkauft. Kaufen Sie eines von beiden und melden Sie sich dann mit demselben Konto im <dashboard>Dashboard</dashboard> an, um Tenacity herunterzuladen."
     },
     "owner": {
       "q": "Ich besitze bereits Opal oder Terminus. Was nun?",
-      "a": "Melden Sie sich im <dashboard>Dashboard</dashboard> mit der E-Mail-Adresse an, mit der Sie es gekauft haben. Tenacity ist bereits auf Ihrem Konto vorhanden."
+      "a": "Melden Sie sich im <dashboard>Dashboard</dashboard> mit der E-Mail-Adresse an, mit der Sie es gekauft haben. Tenacity ist bereits in Ihrem Konto."
     },
     "real": {
-      "q": "Is this the real Tenacity?",
+      "q": "Ist das das echte Tenacity?",
       "a": "Ja. tenacity.rip ist die offizielle, unterstützte Heimat von Tenacity und der einzige Ort, um aktuelle Builds zu erhalten. Kopien von anderswo sind nicht unsere und sollten nicht ausgeführt werden."
     },
     "expire": {
@@ -147,7 +147,7 @@
     "device": "{browser} auf {system}"
   },
   "source": {
-    "bundle": "Enthalten beim Kauf Ihres Opal oder Terminus",
+    "bundle": "In Ihrem Opal- oder Terminus-Kauf enthalten",
     "purchase": "Erworben",
     "admin_grant": "Von Mitarbeitern gewährt",
     "other": "Gewährt"

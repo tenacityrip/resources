@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "title": "Tenacity Client: عميل Minecraft 1.8.9 الرسمي",
     "description": "التحديث الرسمي المدعوم لعميلنا المفضل الكلاسيكي.",
-    "offer": "Included free with an Opal or Terminus license."
+    "offer": "مُدرَج مجانًا مع ترخيص Opal أو Terminus."
   },
   "nav": {
     "dashboard": "لوحة التحكم",
     "purchase": "شراء",
     "toggle": "تبديل القائمة",
-    "goTo": "Go to {section}",
+    "goTo": "انتقل إلى {section}",
     "language": "اللغة",
     "sections": {
       "top": "أعلى الصفحة",
@@ -21,7 +21,7 @@
   },
   "landing": {
     "learnMore": "معرفة المزيد",
-    "customize": "Customize <b>Tenacity</b> to your liking with our <b>3</b> ClickGUIs and <b>20+</b> pre-made themes",
+    "customize": "صمم <b>Tenacity</b> حسب رغبتك باستخدام واجهات <b>3</b> ClickGUIs ومجموعة <b>20+</b> من السمات الجاهزة",
     "guiAlt": "Tenacity ClickGUI",
     "media": "وسائل الإعلام",
     "videoTitle": "Tenacity فيديو",
@@ -30,40 +30,40 @@
   },
   "faq": {
     "what": {
-      "q": "What is Tenacity?",
-      "a": "Tenacity is a Minecraft 1.8.9 utility client, first released in March 2021. This is its officially endorsed continuation, maintained by the team behind Opal, rebuilt to run on modern Java with a new renderer and a new scripting engine."
+      "q": "ما هو Tenacity؟",
+      "a": "Tenacity عميل أدوات لإصدار Minecraft 1.8.9، صدر لأول مرة في مارس 2021. هذا هو امتداده المعتمد رسميًا، ويتولى صيانته فريق Opal، وقد أُعيد بناؤه ليعمل على Java الحديثة مع محرك عرض جديد ومحرك سكربتات جديد."
     },
     "get": {
-      "q": "How do I get Tenacity?",
-      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+      "q": "كيف أحصل على Tenacity؟",
+      "a": "يأتي Tenacity مجانًا مع <purchase>Opal</purchase> أو Terminus، ولا يُباع منفردًا. اشترِ أحدهما، ثم سجّل الدخول إلى <dashboard>لوحة التحكم</dashboard> بالحساب نفسه لتنزيل Tenacity."
     },
     "owner": {
-      "q": "I already own Opal or Terminus. What now?",
-      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+      "q": "أملك Opal أو Terminus بالفعل. ماذا أفعل الآن؟",
+      "a": "سجّل الدخول إلى <dashboard>لوحة التحكم</dashboard> بالبريد الإلكتروني الذي اشتريت به. Tenacity موجود بالفعل في حسابك."
     },
     "real": {
-      "q": "Is this the real Tenacity?",
-      "a": "Yes. tenacity.rip is the official, endorsed home of Tenacity and the only place to get current builds. Copies from anywhere else are not ours and are not safe to run."
+      "q": "هل هذا هو Tenacity الحقيقي؟",
+      "a": "نعم. tenacity.rip هو الموقع الرسمي المعتمد لـ Tenacity والوحيد للحصول على الإصدارات الحالية. النسخ من أي مكان آخر ليست لنا وغير آمنة لتشغيلها."
     },
     "expire": {
-      "q": "هل ستنتهي صلاحية وصولي؟?",
-      "a": "No. Access is lifetime, including future updates, as long as you follow our <terms>Terms of Service</terms>."
+      "q": "هل ستنتهي صلاحية وصولي؟",
+      "a": "لا. الوصول مدى الحياة، بما في ذلك التحديثات المستقبلية، طالما أنك تلتزم <terms>شروط الخدمة</terms>."
     },
     "systems": {
-      "q": "ما هي أنظمة التشغيل المدعومة؟?",
-      "a": "Windows, macOS and Linux."
+      "q": "ما هي أنظمة التشغيل المدعومة؟",
+      "a": "Windows, macOS و Linux."
     },
     "version": {
-      "q": "Which Minecraft version does Tenacity run on?",
+      "q": "على أي إصدار من Minecraft يعمل Tenacity؟",
       "a": "Minecraft: Java Edition 1.8.9."
     },
     "scripts": {
       "q": "هل يمكنني كتابة النصوص البرمجية؟",
-      "a": "Yes. Scripts can be written in JavaScript, TypeScript or Lua. The <docs>docs</docs> cover the API, bindings and examples."
+      "a": "نعم. يمكن كتابة النصوص البرمجية بلغات JavaScript أو TypeScript أو Lua. <docs>توثيقات</docs> تغطي واجهة برمجة التطبيقات والربط والأمثلة."
     },
     "help": {
-      "q": "أين أجد مساعدة؟?",
-      "a": "Join our <discord>Discord</discord>."
+      "q": "أين أجد مساعدة؟",
+      "a": "انضم إلى <discord>Discord</discord>."
     }
   },
   "footer": {
@@ -74,32 +74,32 @@
     "privacy": "سياسة الخصوصية"
   },
   "legal": {
-    "updated": "Last updated {date}",
+    "updated": "آخر تحديث {date}",
     "prevails": "تم توفير هذا الترجمة للتسهيل. في حال وجود اختلاف مع النسخة الإنجليزية، تبقى النسخة الإنجليزية هي السائدة."
   },
   "mail": {
     "code": {
-      "subject": "Your Tenacity sign-in code",
+      "subject": "رمز تسجيل الدخول الخاص بك في Tenacity",
       "intro": "أدخل هذا الرمز لتسجيل الدخول. يعمل مرة واحدة وينتهي صلاحيته خلال بضع دقائق.",
       "footnote": "إذا لم تحاول تسجيل الدخول، يمكنك تجاهل هذا البريد الإلكتروني."
     },
     "verify": {
-      "subject": "Verify your Tenacity email",
-      "intro": "Confirm this address to open your Tenacity dashboard.",
+      "subject": "تحقق من بريدك الإلكتروني في Tenacity",
+      "intro": "تأكد من هذا العنوان لفتح لوحة تحكم Tenacity الخاصة بك.",
       "button": "التحقق من البريد الإلكتروني",
-      "fallback": "If the button does not work, open {url}"
+      "fallback": "إذا لم يعمل الزر، افتح {url}"
     }
   },
   "login": {
     "title": "تسجيل الدخول",
-    "lede": "Use the account you bought Opal or Terminus with.",
+    "lede": "استخدم الحساب الذي اشتريت من خلاله Opal أو Terminus.",
     "email": "بريد إلكتروني",
     "password": "كلمة المرور",
     "code": "رمز التحقق بخطوتين",
     "submit": "تسجيل الدخول",
     "continue": "مواصلة",
     "emailCode": "الرمز من بريدك الإلكتروني",
-    "codeSent": "If {email} has an account, we sent it a 6-digit code.",
+    "codeSent": "إذا كان لدى {email} حساب، فقد أرسلنا له رمزًا سداسيًّا.",
     "passkey": "سجّل الدخول باستخدام مفتاح مرور",
     "invalid": "عنوان بريد إلكتروني أو كلمة مرور خاطئة.",
     "codeInvalid": "لم يعمل هذا الكود.",
@@ -107,14 +107,14 @@
   },
   "verify": {
     "title": "التحقق من بريدك الإلكتروني",
-    "lede": "We sent a link to {email}. Open it, then come back here.",
+    "lede": "أرسلنا رابطًا إلى {email}. افتحه، ثم عد إلى هنا.",
     "resend": "إعادة إرسال الرابط",
     "sent": "تم الإرسال. تحقق من صندوق الوارد الخاص بك.",
     "done": "لقد قمت بالتحقق"
   },
   "setPassword": {
     "title": "تعيين كلمة مرور",
-    "lede": "Your account came with Opal or Terminus. Pick a password for next time.",
+    "lede": "تم توفير حسابك مع Opal أو Terminus. اختر كلمة مرور للاستخدام في المرة القادمة.",
     "password": "كلمة مرور جديدة",
     "confirm": "كررها",
     "submit": "حفظ كلمة المرور",
@@ -127,10 +127,10 @@
     "active": "نشط",
     "inactive": "لا يوجد وصول",
     "expires": "ينتهي العمل {date}",
-    "getAccess": "Buy Opal or Terminus",
+    "getAccess": "اشترِ Opal أو Terminus",
     "unknownDevice": "جهاز غير معروف",
     "access": "الوصول",
-    "noAccess": "No Tenacity access on this account. It comes free with Opal or Terminus.",
+    "noAccess": "لا يوجد وصول إلى Tenacity على هذا الحساب. يأتي مجانًا مع Opal أو Terminus.",
     "since": "منذ {date}",
     "noBuilds": "لم يتم نشر أي عمليات بناء حتى الآن.",
     "download": "تنزيل",
@@ -142,12 +142,12 @@
     "sessions": "الجلسات",
     "thisDevice": "هذا الجهاز",
     "revoke": "إنهاء الجلسة",
-    "signedIn": "Signed in {date}",
+    "signedIn": "تم تسجيل الدخول {date}",
     "loadFailed": "لم يتم تحميل هذا القسم.",
-    "device": "{browser} on {system}"
+    "device": "{browser} على {system}"
   },
   "source": {
-    "bundle": "Included with your Opal or Terminus purchase",
+    "bundle": "مُضمَّن مع عملية شراء Opal أو Terminus",
     "purchase": "مُشتَرى",
     "admin_grant": "مُمنوح من الموظفين",
     "other": "مُمنوح"

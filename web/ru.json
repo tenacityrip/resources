@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Официальный клиент Minecraft 1.8.9: Tenacity",
+    "title": "Tenacity Client: официальный клиент Minecraft 1.8.9",
     "description": "Официально одобренная модернизация любимого всеми унаследованного клиента.",
     "offer": "Включено бесплатно при наличии лицензии Opal или Terminus."
   },
@@ -34,15 +34,15 @@
       "a": "Tenacity — это утилитарный клиент для Minecraft 1.8.9, впервые выпущенный в марте 2021 года. Это его официально одобренное продолжение, поддерживаемое командой, стоящей за Opal, пересобранное для работы на современной Java с новым рендерером и новым скриптовым движком."
     },
     "get": {
-      "q": "How do I get Tenacity?",
-      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+      "q": "Как получить Tenacity?",
+      "a": "Tenacity бесплатно прилагается к <purchase>Opal</purchase> или Terminus. Отдельно он не продаётся. Купите любой из них, затем войдите в <dashboard>панель управления</dashboard> с той же учётной записью, чтобы скачать Tenacity."
     },
     "owner": {
-      "q": "I already own Opal or Terminus. What now?",
-      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+      "q": "У меня уже есть Opal или Terminus. Что дальше?",
+      "a": "Войдите в <dashboard>панель управления</dashboard> с почтой, на которую оформлена покупка. Tenacity уже есть в вашей учётной записи."
     },
     "real": {
-      "q": "Is this the real Tenacity?",
+      "q": "Это настоящий Tenacity?",
       "a": "Да. tenacity.rip — официальный, одобренный сайт Tenacity и единственное место, где можно получить актуальные сборки. Копии из других источников не принадлежат нам и небезопасны для запуска."
     },
     "expire": {

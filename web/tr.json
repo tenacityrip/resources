@@ -21,7 +21,7 @@
   },
   "landing": {
     "learnMore": "Daha Fazla Bilgi Edinin",
-    "customize": "Customize <b>Tenacity</b> to your liking with our <b>3</b> ClickGUIs and <b>20+</b> pre-made themes",
+    "customize": "<b>Tenacity</b> deneyimini <b>3</b> ClickGUI ve <b>20+</b> hazır temayla dilediğiniz gibi özelleştirin",
     "guiAlt": "Tenacity ClickGUI",
     "media": "MEDYA",
     "videoTitle": "Tenacity videosu",
@@ -34,15 +34,15 @@
       "a": "Tenacity, Minecraft 1.8.9 için bir yardımcı istemcidir ve ilk olarak Mart 2021'de yayınlanmıştır. Bu, Opal ekibi tarafından desteklenen ve modern Java üzerinde çalışacak şekilde yeniden inşa edilen, yeni bir render ve yeni bir betik motoruna sahip olan resmi devamıdır."
     },
     "get": {
-      "q": "How do I get Tenacity?",
-      "a": "<purchase>Opal</purchase> veya Terminus satın alımıyla birlikte azim ücretsizdir. Ayrı olarak satılmaz. Bunlardan birini satın alın, ardından Tenacity'yi indirmek için aynı hesapla <dashboard>dashboard</dashboard>'a giriş yapın."
+      "q": "Tenacity'yi nasıl edinebilirim?",
+      "a": "Tenacity, <purchase>Opal</purchase> veya Terminus ile ücretsiz gelir. Ayrı olarak satılmaz. Birini satın alın, ardından Tenacity indirmek için aynı hesapla <dashboard>panele</dashboard> giriş yapın."
     },
     "owner": {
       "q": "Zaten Opal veya Terminus'a sahibim. Şimdi ne olacak?",
-      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+      "a": "Satın alırken kullandığınız e-posta ile <dashboard>panele</dashboard> giriş yapın. Tenacity zaten hesabınızda."
     },
     "real": {
-      "q": "Is this the real Tenacity?",
+      "q": "Bu gerçek Tenacity mi?",
       "a": "Evet. tenacity.rip, Tenacity'nin resmi, onaylı adresi ve güncel yapılar edinilebilecek tek yerdir. Başka yerlerden kopyalananlar bize ait değildir ve çalıştırılması güvenli değildir."
     },
     "expire": {

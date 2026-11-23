@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Tenacity Client: the official Minecraft 1.8.9 client",
+    "title": "Tenacity Client: oficjalny klient Minecraft 1.8.9",
     "description": "Oficjalnie zatwierdzone ulepszenie ulubionego, sprawdzonego klienta.",
     "offer": "W zestawie bezpłatnie z licencją Opal lub Terminus."
   },
@@ -31,18 +31,18 @@
   "faq": {
     "what": {
       "q": "Co to jest Tenacity?",
-      "a": "Tenacity is a Minecraft 1.8.9 utility client, first released in March 2021. This is its officially endorsed continuation, maintained by the team behind Opal, rebuilt to run on modern Java with a new renderer and a new scripting engine."
+      "a": "Tenacity to klient użytkowy do Minecraft 1.8.9, wydany po raz pierwszy w marcu 2021 roku. To jego oficjalnie zatwierdzona kontynuacja, rozwijana przez zespół Opal i przebudowana pod nowoczesną Javę, z nowym rendererem i nowym silnikiem skryptów."
     },
     "get": {
-      "q": "How do I get Tenacity?",
-      "a": "Tenacity comes free with <purchase>Opal</purchase> or Terminus. It is not sold on its own. Buy either one, then sign in to the <dashboard>dashboard</dashboard> with the same account to download Tenacity."
+      "q": "Jak zdobyć Tenacity?",
+      "a": "Tenacity jest dodawane za darmo do <purchase>Opal</purchase> lub Terminus. Nie jest sprzedawane osobno. Kup jeden z nich, a następnie zaloguj się do <dashboard>panelu</dashboard> na to samo konto, aby pobrać Tenacity."
     },
     "owner": {
       "q": "Już posiadam Opal lub Terminus. Co teraz?",
-      "a": "Sign in to the <dashboard>dashboard</dashboard> with the email you bought it with. Tenacity is already on your account."
+      "a": "Zaloguj się do <dashboard>panelu</dashboard> adresem e-mail użytym przy zakupie. Tenacity jest już na Twoim koncie."
     },
     "real": {
-      "q": "Is this the real Tenacity?",
+      "q": "Czy to prawdziwe Tenacity?",
       "a": "Tak. tenacity.rip to oficjalna, zatwierdzona strona domowa Tenacity i jedyne miejsce, gdzie można pobrać aktualne wersje. Kopie z innych źródeł nie należą do nas i nie są bezpieczne do uruchomienia."
     },
     "expire": {

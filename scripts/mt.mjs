@@ -49,25 +49,25 @@ export async function translate(english, locale) {
     if (known) return known;
     const store = [];
     const masked = english.replace(TOKEN, (token) => `⟦K${store.push(token) - 1}⟧`);
-    const brands = new RegExp(`${TOKEN.source}|\b(?:${BRANDS.join("|")})\b`, "g");
-    const brandOnly = new RegExp(`\b(?:${BRANDS.join("|")})\b`, "g");
+    const brands = new RegExp(`${TOKEN.source}|\\b(?:${BRANDS.join("|")})\\b`, "g");
+    const brandOnly = new RegExp(`\\b(?:${BRANDS.join("|")})\\b(?![.]rip)`, "g");
     const names = [];
     const nameless = english.replace(brands, (token) => `⟦K${names.push(token) - 1}⟧`);
     const attempts = [
-        ...(/<\w+>/.test(english) ? [async () => request(english, locale, "html")] : []),
-        async () => (await request(masked, locale)).replace(SENTINEL, (_, i) => store[i] ?? ""),
-        async () => request(english, locale),
         // "Tenacity" and "Opal" are also ordinary words, so the model translates them. A code name it leaves alone.
-        ...[masked, english].map((text) => async () => {
+        ...(english.search(brandOnly) >= 0 ? [masked, english] : []).map((text) => async () => {
             const coded = text.replace(brandOnly, (brand) => `QX${BRANDS.indexOf(brand) + 10}`);
             const out = await request(coded, locale, /<\w+>/.test(coded) ? "html" : "text");
             return out
                 .replace(SENTINEL, (_, i) => store[i] ?? "")
                 .replace(/QX(\d\d)/g, (code, n) => BRANDS[Number(n) - 10] ?? code);
         }),
+        ...(/<\w+>/.test(english) ? [async () => request(english, locale, "html")] : []),
+        async () => (await request(masked, locale)).replace(SENTINEL, (_, i) => store[i] ?? ""),
+        async () => request(english, locale),
         async () => (await request(nameless, locale)).replace(SENTINEL, (_, i) => names[i] ?? ""),
-        async () => request(english.replace(new RegExp(`\b(?:${BRANDS.join("|")})\b`, "g"), '"$&"'), locale).then((out) =>
-            out.replace(new RegExp(`["“”„«»「」]\s?(${BRANDS.join("|")})\s?["“”„«»「」]`, "g"), "$1"),
+        async () => request(english.replace(new RegExp(`\\b(?:${BRANDS.join("|")})\\b`, "g"), '"$&"'), locale).then((out) =>
+            out.replace(new RegExp(`["“”„«»「」]\\s?(${BRANDS.join("|")})\\s?["“”„«»「」]`, "g"), "$1"),
         ),
         // Fragments lose their grammar, so only short text may be split around its tokens.
         ...(english.split(" ").length > 4 ? [] : [

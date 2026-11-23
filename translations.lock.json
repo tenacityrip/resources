@@ -5839,5 +5839,23 @@
   "ui.xyz": "98ad5cec30b7",
   "ui.you_are_no_longer_friends_with_name": "b19fd18f7d73",
   "ui.you_are_now_friends_with_name": "7a13ff786b21"
- }
+ },
+ "legal/de/privacy.mdx": "d4b47587c887",
+ "legal/fr/privacy.mdx": "d4b47587c887",
+ "legal/it/privacy.mdx": "d4b47587c887",
+ "legal/pl/privacy.mdx": "d4b47587c887",
+ "legal/ru/privacy.mdx": "d4b47587c887",
+ "legal/tr/privacy.mdx": "d4b47587c887",
+ "legal/zh/privacy.mdx": "d4b47587c887",
+ "legal/ja/privacy.mdx": "d4b47587c887",
+ "legal/ar/privacy.mdx": "d4b47587c887",
+ "legal/de/terms.mdx": "afb84384a733",
+ "legal/fr/terms.mdx": "afb84384a733",
+ "legal/it/terms.mdx": "afb84384a733",
+ "legal/pl/terms.mdx": "afb84384a733",
+ "legal/ru/terms.mdx": "afb84384a733",
+ "legal/tr/terms.mdx": "afb84384a733",
+ "legal/zh/terms.mdx": "afb84384a733",
+ "legal/ja/terms.mdx": "afb84384a733",
+ "legal/ar/terms.mdx": "afb84384a733"
 }

@@ -59,7 +59,7 @@
     },
     "scripts": {
       "q": "Betikler yazabilir miyim?",
-      "a": "Evet. Betikler JavaScript, TypeScript veya Lua ile yazılabilir. <docs>Belgeler</docs> API'yi, bağlamaları ve örnekleri kapsar."
+      "a": "Evet. Betikler JavaScript ile yazılır. <docs>Belgeler</docs> API'yi, bağlamaları ve örnekleri kapsar."
     },
     "help": {
       "q": "Yardım nerede bulabilirim?",
@@ -67,11 +67,17 @@
     }
   },
   "footer": {
-    "explore": "KEŞFET",
+    "product": "Ürün",
+    "scripting": "Betikler",
+    "legal": "Yasal",
+    "faq": "SSS",
     "docs": "Belgeler",
-    "discord": "Discord",
+    "editor": "Editör eklentileri",
+    "claude": "Claude eklentisi",
     "terms": "Hizmet Şartları",
-    "privacy": "Gizlilik Politikası"
+    "privacy": "Gizlilik Politikası",
+    "openSource": "<trq>trq.lol</trq> açık kaynak yazılımlarıyla geliştirildi.",
+    "disclaimer": "Resmi bir Minecraft ürünü değildir. Mojang veya Microsoft tarafından onaylanmamıştır ve onlarla bağlantılı değildir."
   },
   "legal": {
     "updated": "Son güncelleme {date} tarihinde.",
@@ -144,7 +150,18 @@
     "revoke": "Oturumu sonlandır",
     "signedIn": "{date} tarihinde giriş yapıldı",
     "loadFailed": "Bu bölüm yüklenemedi.",
-    "device": "{browser} üzerinde {system}"
+    "device": "{browser} üzerinde {system}",
+    "downloadFor": "{platform} için indir",
+    "otherSystem": "Sisteminiz bu değil mi?",
+    "chooseSystem": "Sisteminizi seçin",
+    "launcher": "Başlatıcı",
+    "platform": {
+      "windows-x64": "Windows",
+      "macos-x64": "macOS (Intel)",
+      "macos-arm64": "macOS (Apple silikon)",
+      "linux-x64": "Linux"
+    },
+    "sessionsStale": "Oturum açalı epey oldu. Oturumlarınızı görmek için çıkış yapıp yeniden giriş yapın."
   },
   "source": {
     "bundle": "Opal veya Terminus satın alımınızla birlikte dahildir",

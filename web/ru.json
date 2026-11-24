@@ -59,7 +59,7 @@
     },
     "scripts": {
       "q": "Могу ли я писать скрипты?",
-      "a": "Да. Скрипты можно писать на JavaScript, TypeScript или Lua. <docs>Документация</docs> охватывает API, привязки и примеры."
+      "a": "Да. Скрипты пишутся на JavaScript. <docs>Документация</docs> охватывает API, привязки и примеры."
     },
     "help": {
       "q": "Где я могу получить помощь?",
@@ -67,11 +67,17 @@
     }
   },
   "footer": {
-    "explore": "РАЗДЕЛЫ",
+    "product": "Продукт",
+    "scripting": "Скрипты",
+    "legal": "Правовая информация",
+    "faq": "Вопросы и ответы",
     "docs": "Документация",
-    "discord": "Discord",
+    "editor": "Расширения для редакторов",
+    "claude": "Плагин Claude",
     "terms": "Условия использования",
-    "privacy": "Политика конфиденциальности"
+    "privacy": "Политика конфиденциальности",
+    "openSource": "Создано с использованием открытого ПО от <trq>trq.lol</trq>.",
+    "disclaimer": "Не является официальным продуктом Minecraft. Не одобрено Mojang или Microsoft и не связано с ними."
   },
   "legal": {
     "updated": "Последнее обновление {date}",
@@ -144,7 +150,18 @@
     "revoke": "Завершить сеанс",
     "signedIn": "Вошли в систему {date}",
     "loadFailed": "Не удалось загрузить этот раздел.",
-    "device": "{browser} на {system}"
+    "device": "{browser} на {system}",
+    "downloadFor": "Скачать для {platform}",
+    "otherSystem": "Другая система?",
+    "chooseSystem": "Выберите систему",
+    "launcher": "Лаунчер",
+    "platform": {
+      "windows-x64": "Windows",
+      "macos-x64": "macOS (Intel)",
+      "macos-arm64": "macOS (Apple silicon)",
+      "linux-x64": "Linux"
+    },
+    "sessionsStale": "Вы вошли давно. Выйдите и войдите снова, чтобы увидеть сеансы."
   },
   "source": {
     "bundle": "В комплекте с вашей покупкой Opal или Terminus",

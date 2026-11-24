@@ -59,7 +59,7 @@
     },
     "scripts": {
       "q": "Posso scrivere script?",
-      "a": "Sì. Gli script possono essere scritti in JavaScript, TypeScript o Lua. La <docs>documentazione</docs> copre l'API, i binding e gli esempi."
+      "a": "Sì. Gli script si scrivono in JavaScript. La <docs>documentazione</docs> copre l’API, i binding e gli esempi."
     },
     "help": {
       "q": "Dove posso trovare aiuto?",
@@ -67,11 +67,17 @@
     }
   },
   "footer": {
-    "explore": "ESPLORA",
+    "product": "Prodotto",
+    "scripting": "Script",
+    "legal": "Note legali",
+    "faq": "FAQ",
     "docs": "Documentazione",
-    "discord": "Discord",
+    "editor": "Estensioni per editor",
+    "claude": "Plugin Claude",
     "terms": "Termini di servizio",
-    "privacy": "Informativa sulla privacy"
+    "privacy": "Informativa sulla privacy",
+    "openSource": "Realizzato con software open source di <trq>trq.lol</trq>.",
+    "disclaimer": "Non è un prodotto ufficiale Minecraft. Non approvato da Mojang o Microsoft né associato ad esse."
   },
   "legal": {
     "updated": "Aggiornato l'ultima volta il {date}",
@@ -144,7 +150,18 @@
     "revoke": "Termina sessione",
     "signedIn": "Accesso effettuato il {date}",
     "loadFailed": "Non è stato possibile caricare questa sezione.",
-    "device": "{browser} su {system}"
+    "device": "{browser} su {system}",
+    "downloadFor": "Scarica per {platform}",
+    "otherSystem": "Non è il tuo sistema?",
+    "chooseSystem": "Scegli il tuo sistema",
+    "launcher": "Launcher",
+    "platform": {
+      "windows-x64": "Windows",
+      "macos-x64": "macOS (Intel)",
+      "macos-arm64": "macOS (chip Apple)",
+      "linux-x64": "Linux"
+    },
+    "sessionsStale": "Hai effettuato l’accesso tempo fa. Esci e accedi di nuovo per vedere le tue sessioni."
   },
   "source": {
     "bundle": "Incluso con l'acquisto di Opal o Terminus",

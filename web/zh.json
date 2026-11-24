@@ -59,7 +59,7 @@
     },
     "scripts": {
       "q": "我可以编写脚本吗？",
-      "a": "是的。脚本可以使用 JavaScript、TypeScript 或 Lua 编写。<docs>文档</docs>涵盖了 API、绑定和示例。"
+      "a": "是的。脚本使用 JavaScript 编写。<docs>文档</docs>涵盖了 API、绑定和示例。"
     },
     "help": {
       "q": "我该去哪里寻求帮助？",
@@ -67,11 +67,17 @@
     }
   },
   "footer": {
-    "explore": "探索",
+    "product": "产品",
+    "scripting": "脚本",
+    "legal": "法律",
+    "faq": "常见问题",
     "docs": "文档",
-    "discord": "Discord",
+    "editor": "编辑器扩展",
+    "claude": "Claude 插件",
     "terms": "服务条款",
-    "privacy": "隐私政策"
+    "privacy": "隐私政策",
+    "openSource": "使用 <trq>trq.lol</trq> 的开源软件构建。",
+    "disclaimer": "非 Minecraft 官方产品。未经 Mojang 或 Microsoft 批准，也与其无关联。"
   },
   "legal": {
     "updated": "最后更新 {date}",
@@ -144,7 +150,18 @@
     "revoke": "结束会话",
     "signedIn": "已于 {date} 登录",
     "loadFailed": "无法加载此部分。",
-    "device": "{browser} 在 {system}"
+    "device": "{browser} 在 {system}",
+    "downloadFor": "下载 {platform} 版",
+    "otherSystem": "不是您的系统？",
+    "chooseSystem": "选择您的系统",
+    "launcher": "启动器",
+    "platform": {
+      "windows-x64": "Windows",
+      "macos-x64": "macOS（Intel）",
+      "macos-arm64": "macOS（Apple 芯片）",
+      "linux-x64": "Linux"
+    },
+    "sessionsStale": "您登录已有一段时间。请退出并重新登录以查看会话。"
   },
   "source": {
     "bundle": "随 Opal 或 Terminus 购买即赠",

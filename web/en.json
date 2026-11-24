@@ -59,7 +59,7 @@
         },
         "scripts": {
             "q": "Can I write scripts?",
-            "a": "Yes. Scripts can be written in JavaScript, TypeScript or Lua. The <docs>docs</docs> cover the API, bindings and examples."
+            "a": "Yes. Scripts are written in JavaScript. The <docs>docs</docs> cover the API, bindings and examples."
         },
         "help": {
             "q": "Where do I get help?",
@@ -67,11 +67,17 @@
         }
     },
     "footer": {
-        "explore": "EXPLORE",
+        "product": "Product",
+        "scripting": "Scripting",
+        "legal": "Legal",
+        "faq": "FAQ",
         "docs": "Docs",
-        "discord": "Discord",
+        "editor": "Editor extensions",
+        "claude": "Claude plugin",
         "terms": "Terms of Service",
-        "privacy": "Privacy Policy"
+        "privacy": "Privacy Policy",
+        "openSource": "Built with open source software from <trq>trq.lol</trq>.",
+        "disclaimer": "Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft."
     },
     "legal": {
         "updated": "Last updated {date}",
@@ -144,7 +150,18 @@
         "revoke": "End session",
         "signedIn": "Signed in {date}",
         "loadFailed": "Could not load this section.",
-        "device": "{browser} on {system}"
+        "device": "{browser} on {system}",
+        "downloadFor": "Download for {platform}",
+        "otherSystem": "Not your system?",
+        "chooseSystem": "Choose your system",
+        "launcher": "Launcher",
+        "platform": {
+            "windows-x64": "Windows",
+            "macos-x64": "macOS (Intel)",
+            "macos-arm64": "macOS (Apple silicon)",
+            "linux-x64": "Linux"
+        },
+        "sessionsStale": "You signed in a while ago. Sign out and back in to see your sessions."
     },
     "source": {
         "bundle": "Included with your Opal or Terminus purchase",

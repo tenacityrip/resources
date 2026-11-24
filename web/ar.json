@@ -59,7 +59,7 @@
     },
     "scripts": {
       "q": "هل يمكنني كتابة النصوص البرمجية؟",
-      "a": "نعم. يمكن كتابة النصوص البرمجية بلغات JavaScript أو TypeScript أو Lua. <docs>توثيقات</docs> تغطي واجهة برمجة التطبيقات والربط والأمثلة."
+      "a": "نعم. تُكتب النصوص البرمجية بلغة JavaScript. تغطي <docs>الوثائق</docs> واجهة برمجة التطبيقات والربط والأمثلة."
     },
     "help": {
       "q": "أين أجد مساعدة؟",
@@ -67,11 +67,17 @@
     }
   },
   "footer": {
-    "explore": "استكشف",
+    "product": "المنتج",
+    "scripting": "البرمجة النصية",
+    "legal": "قانوني",
+    "faq": "الأسئلة الشائعة",
     "docs": "الوثائق",
-    "discord": "Discord",
+    "editor": "إضافات المحررات",
+    "claude": "إضافة Claude",
     "terms": "شروط الخدمة",
-    "privacy": "سياسة الخصوصية"
+    "privacy": "سياسة الخصوصية",
+    "openSource": "بُني باستخدام برمجيات مفتوحة المصدر من <trq>trq.lol</trq>.",
+    "disclaimer": "ليس منتجًا رسميًا من Minecraft. غير معتمد من Mojang أو Microsoft وغير مرتبط بهما."
   },
   "legal": {
     "updated": "آخر تحديث {date}",
@@ -144,7 +150,18 @@
     "revoke": "إنهاء الجلسة",
     "signedIn": "تم تسجيل الدخول {date}",
     "loadFailed": "لم يتم تحميل هذا القسم.",
-    "device": "{browser} على {system}"
+    "device": "{browser} على {system}",
+    "downloadFor": "تنزيل لنظام {platform}",
+    "otherSystem": "ليس نظامك؟",
+    "chooseSystem": "اختر نظامك",
+    "launcher": "المشغّل",
+    "platform": {
+      "windows-x64": "Windows",
+      "macos-x64": "macOS (Intel)",
+      "macos-arm64": "macOS (Apple silicon)",
+      "linux-x64": "Linux"
+    },
+    "sessionsStale": "مرّ وقت على تسجيل دخولك. سجّل الخروج ثم الدخول مجددًا لعرض جلساتك."
   },
   "source": {
     "bundle": "مُضمَّن مع عملية شراء Opal أو Terminus",

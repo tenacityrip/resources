@@ -59,7 +59,7 @@
     },
     "scripts": {
       "q": "スクリプトを書けますか？",
-      "a": "はい。スクリプトは JavaScript、TypeScript、または Lua で記述できます。<docs>ドキュメント</docs>は、API、バインディング、およびサンプルを網羅しています。"
+      "a": "はい。スクリプトは JavaScript で記述します。<docs>ドキュメント</docs>は、API、バインディング、およびサンプルを網羅しています。"
     },
     "help": {
       "q": "助けをどこで得られますか？",
@@ -67,11 +67,17 @@
     }
   },
   "footer": {
-    "explore": "メニュー",
+    "product": "製品",
+    "scripting": "スクリプト",
+    "legal": "法的情報",
+    "faq": "よくある質問",
     "docs": "ドキュメント",
-    "discord": "Discord",
+    "editor": "エディター拡張機能",
+    "claude": "Claude プラグイン",
     "terms": "利用規約",
-    "privacy": "プライバシーポリシー"
+    "privacy": "プライバシーポリシー",
+    "openSource": "<trq>trq.lol</trq> のオープンソースソフトウェアを使用しています。",
+    "disclaimer": "Minecraft の公式製品ではありません。Mojang および Microsoft の承認を受けておらず、提携関係もありません。"
   },
   "legal": {
     "updated": "最終更新日：{date}",
@@ -144,7 +150,18 @@
     "revoke": "セッションを終了",
     "signedIn": "{date}にサインインしました",
     "loadFailed": "このセクションを読み込めませんでした。",
-    "device": "{browser}（{system}）"
+    "device": "{browser}（{system}）",
+    "downloadFor": "{platform} 版をダウンロード",
+    "otherSystem": "お使いのシステムと違いますか？",
+    "chooseSystem": "システムを選択",
+    "launcher": "ランチャー",
+    "platform": {
+      "windows-x64": "Windows",
+      "macos-x64": "macOS（Intel）",
+      "macos-arm64": "macOS（Apple シリコン）",
+      "linux-x64": "Linux"
+    },
+    "sessionsStale": "サインインから時間が経っています。セッションを表示するには、サインアウトして再度サインインしてください。"
   },
   "source": {
     "bundle": "Opal または Terminus の購入に付属",

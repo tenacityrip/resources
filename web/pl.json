@@ -161,12 +161,47 @@
       "macos-arm64": "macOS (układ Apple)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Od logowania minęło trochę czasu. Wyloguj się i zaloguj ponownie, aby zobaczyć sesje."
+    "sessionsStale": "Od logowania minęło trochę czasu. Wyloguj się i zaloguj ponownie, aby zobaczyć sesje.",
+    "connections": "Połączenia",
+    "connectionsLede": "Użyj własnej aplikacji Spotify w grze.",
+    "manage": "Zarządzaj"
   },
   "source": {
     "bundle": "Dołączone do zakupu Opal lub Terminus",
     "purchase": "Zakupione",
     "admin_grant": "Przyznane przez personel",
     "other": "Przyznane"
+  },
+  "connections": {
+    "title": "Połączenia",
+    "back": "Panel",
+    "lede": "Podłącz własną aplikację Spotify, aby wyświetlać i kontrolować swoją muzykę w grze. Sterowanie wymaga Spotify Premium.",
+    "stateOn": "Połączono",
+    "stateOff": "Nie połączono",
+    "account": "Połączono jako <name>{account}</name>",
+    "connect": "Połącz",
+    "reconnect": "Połącz ponownie",
+    "disconnect": "Rozłącz",
+    "app": "Twoja aplikacja Spotify",
+    "stepCreate": "Utwórz aplikację w <link>panelu deweloperskim Spotify</link> z włączonym Web API.",
+    "stepRedirect": "Dodaj ten URI przekierowania do aplikacji:",
+    "stepPaste": "Wklej poniżej identyfikator klienta i tajny klucz aplikacji, zapisz, a następnie połącz.",
+    "clientId": "Identyfikator klienta",
+    "clientSecret": "Tajny klucz klienta",
+    "secretKept": "Pozostaw puste, aby zachować zapisany klucz. Nigdy więcej nie zostanie pokazany.",
+    "save": "Zapisz",
+    "badId": "Ten identyfikator klienta jest nieprawidłowy.",
+    "badSecret": "Ten tajny klucz klienta jest nieprawidłowy.",
+    "secretNeeded": "Nowy identyfikator klienta wymaga swojego tajnego klucza.",
+    "saveFailed": "Nie udało się zapisać. Spróbuj ponownie za chwilę.",
+    "tooMany": "Za dużo prób. Zaczekaj minutę.",
+    "saved": "Zapisano.",
+    "connected": "Spotify jest połączone.",
+    "disconnected": "Spotify jest rozłączone.",
+    "denied": "Dostęp do Spotify nie został przyznany.",
+    "expired": "Ten link do logowania wygasł. Połącz się ponownie.",
+    "failed": "Coś poszło nie tak. Spróbuj ponownie za chwilę.",
+    "off": "Połączenia Spotify są niedostępne w tej chwili.",
+    "loadFailed": "Nie udało się załadować. Spróbuj ponownie za chwilę."
   }
 }

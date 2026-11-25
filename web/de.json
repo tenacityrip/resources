@@ -161,12 +161,47 @@
       "macos-arm64": "macOS (Apple-Chip)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Deine Anmeldung liegt länger zurück. Melde dich ab und wieder an, um deine Sitzungen zu sehen."
+    "sessionsStale": "Deine Anmeldung liegt länger zurück. Melde dich ab und wieder an, um deine Sitzungen zu sehen.",
+    "connections": "Verbindungen",
+    "connectionsLede": "Nutze deine eigene Spotify-App im Spiel.",
+    "manage": "Verwalten"
   },
   "source": {
     "bundle": "In Ihrem Opal- oder Terminus-Kauf enthalten",
     "purchase": "Erworben",
     "admin_grant": "Von Mitarbeitern gewährt",
     "other": "Gewährt"
+  },
+  "connections": {
+    "title": "Verbindungen",
+    "back": "Dashboard",
+    "lede": "Verbinde deine eigene Spotify-App, um deine Musik im Spiel anzuzeigen und zu steuern. Die Steuerung erfordert Spotify Premium.",
+    "stateOn": "Verbunden",
+    "stateOff": "Nicht verbunden",
+    "account": "Verbunden als <name>{account}</name>",
+    "connect": "Verbinden",
+    "reconnect": "Neu verbinden",
+    "disconnect": "Trennen",
+    "app": "Deine Spotify-App",
+    "stepCreate": "Erstelle eine App im <link>Spotify-Entwickler-Dashboard</link> mit aktivierter Web-API.",
+    "stepRedirect": "Füge der App diese Weiterleitungs-URI hinzu:",
+    "stepPaste": "Füge unten die Client-ID und das Client-Secret der App ein, speichere und verbinde dann.",
+    "clientId": "Client-ID",
+    "clientSecret": "Client-Secret",
+    "secretKept": "Leer lassen, um das gespeicherte Secret zu behalten. Es wird nie wieder angezeigt.",
+    "save": "Speichern",
+    "badId": "Diese Client-ID ist ungültig.",
+    "badSecret": "Dieses Client-Secret ist ungültig.",
+    "secretNeeded": "Eine neue Client-ID benötigt ihr Client-Secret.",
+    "saveFailed": "Speichern fehlgeschlagen. Versuche es gleich noch einmal.",
+    "tooMany": "Zu viele Versuche. Warte eine Minute.",
+    "saved": "Gespeichert.",
+    "connected": "Spotify ist verbunden.",
+    "disconnected": "Spotify ist getrennt.",
+    "denied": "Der Zugriff auf Spotify wurde nicht gewährt.",
+    "expired": "Dieser Anmelde-Link ist abgelaufen. Verbinde dich erneut.",
+    "failed": "Etwas ist schiefgelaufen. Versuche es gleich noch einmal.",
+    "off": "Spotify-Verbindungen sind derzeit nicht verfügbar.",
+    "loadFailed": "Laden fehlgeschlagen. Versuche es gleich noch einmal."
   }
 }

@@ -70,3 +70,4 @@ Watchdog
 Y-Port
 FPS:
 XYZ:
+Spotify API

@@ -161,12 +161,47 @@
       "macos-arm64": "macOS (Apple silikon)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Oturum açalı epey oldu. Oturumlarınızı görmek için çıkış yapıp yeniden giriş yapın."
+    "sessionsStale": "Oturum açalı epey oldu. Oturumlarınızı görmek için çıkış yapıp yeniden giriş yapın.",
+    "connections": "Bağlantılar",
+    "connectionsLede": "Oyunda kendi Spotify uygulamanızı kullanın.",
+    "manage": "Yönet"
   },
   "source": {
     "bundle": "Opal veya Terminus satın alımınızla birlikte dahildir",
     "purchase": "Satın alındı",
     "admin_grant": "Personel tarafından verildi",
     "other": "Verildi"
+  },
+  "connections": {
+    "title": "Bağlantılar",
+    "back": "Panel",
+    "lede": "Oyundaki müziğinizi görüntülemek ve kontrol etmek için kendi Spotify uygulamanızı bağlayın. Kontroller Spotify Premium gerektirir.",
+    "stateOn": "Bağlı",
+    "stateOff": "Bağlı değil",
+    "account": "<name>{account}</name> olarak bağlandı",
+    "connect": "Bağlan",
+    "reconnect": "Yeniden Bağlan",
+    "disconnect": "Bağlantıyı Kes",
+    "app": "Spotify uygulamanız",
+    "stepCreate": "<link>Spotify geliştirici panelinde</link> Web API açık olacak şekilde bir uygulama oluşturun.",
+    "stepRedirect": "Uygulamaya şu yönlendirme URI’sini ekleyin:",
+    "stepPaste": "Uygulamanın istemci kimliğini ve istemci sırrını aşağıya yapıştırın, kaydedin, ardından bağlanın.",
+    "clientId": "İstemci Kimliği",
+    "clientSecret": "İstemci Sırrı",
+    "secretKept": "Kayıtlı sırrı korumak için boş bırakın. Bir daha asla gösterilmez.",
+    "save": "Kaydet",
+    "badId": "Bu istemci kimliği geçerli değil.",
+    "badSecret": "Bu istemci sırrı geçerli değil.",
+    "secretNeeded": "Yeni bir istemci kimliği, kendi istemci sırrını gerektirir.",
+    "saveFailed": "Kaydedilemedi. Birazdan tekrar deneyin.",
+    "tooMany": "Çok fazla deneme. Bir dakika bekleyin.",
+    "saved": "Kaydedildi.",
+    "connected": "Spotify bağlandı.",
+    "disconnected": "Spotify bağlantısı kesildi.",
+    "denied": "Spotify erişimine izin verilmedi.",
+    "expired": "Bu oturum açma bağlantısının süresi doldu. Tekrar bağlanın.",
+    "failed": "Bir sorun oluştu. Birazdan tekrar deneyin.",
+    "off": "Spotify bağlantıları şu anda kullanılamıyor.",
+    "loadFailed": "Yüklenemedi. Birazdan tekrar deneyin."
   }
 }

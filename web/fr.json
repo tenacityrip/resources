@@ -161,12 +161,47 @@
       "macos-arm64": "macOS (puce Apple)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Votre connexion date d’un moment. Déconnectez-vous puis reconnectez-vous pour voir vos sessions."
+    "sessionsStale": "Votre connexion date d’un moment. Déconnectez-vous puis reconnectez-vous pour voir vos sessions.",
+    "connections": "Connexions",
+    "connectionsLede": "Utilisez votre propre application Spotify dans le jeu.",
+    "manage": "Gérer"
   },
   "source": {
     "bundle": "Inclus avec votre achat Opal ou Terminus",
     "purchase": "Acheté",
     "admin_grant": "Accordé par l'équipe",
     "other": "Accordé"
+  },
+  "connections": {
+    "title": "Connexions",
+    "back": "Tableau de bord",
+    "lede": "Connectez votre propre application Spotify pour afficher et contrôler votre musique dans le jeu. Les commandes nécessitent un abonnement Spotify Premium.",
+    "stateOn": "Connecté",
+    "stateOff": "Non connecté",
+    "account": "Connecté en tant que <name>{account}</name>",
+    "connect": "Connecter",
+    "reconnect": "Reconnecter",
+    "disconnect": "Déconnecter",
+    "app": "Votre application Spotify",
+    "stepCreate": "Créez une application dans le <link>tableau de bord développeur Spotify</link> avec l’API Web activée.",
+    "stepRedirect": "Ajoutez cette URI de redirection à l'application :",
+    "stepPaste": "Collez l'ID client et le secret client de l'application ci-dessous, enregistrez, puis connectez-vous.",
+    "clientId": "ID client",
+    "clientSecret": "Secret client",
+    "secretKept": "Laissez ce champ vide pour conserver le secret enregistré. Il n'apparaîtra plus jamais.",
+    "save": "Enregistrer",
+    "badId": "Cet identifiant client n’est pas valide.",
+    "badSecret": "Ce secret client n'est pas valide.",
+    "secretNeeded": "Un nouvel identifiant client nécessite son secret client.",
+    "saveFailed": "Impossible de sauvegarder. Réessayez dans un instant.",
+    "tooMany": "Trop de tentatives. Attendez une minute.",
+    "saved": "Enregistré.",
+    "connected": "Spotify est connecté.",
+    "disconnected": "Spotify est déconnecté.",
+    "denied": "L’accès à Spotify n’a pas été accordé.",
+    "expired": "Ce lien d'authentification a expiré. Reconnectez-vous.",
+    "failed": "Quelque chose s'est mal passé. Réessayez dans un instant.",
+    "off": "Les connexions Spotify ne sont pas disponibles pour le moment.",
+    "loadFailed": "Impossible de charger. Réessayez dans un instant."
   }
 }

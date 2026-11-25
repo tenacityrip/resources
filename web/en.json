@@ -161,12 +161,47 @@
             "macos-arm64": "macOS (Apple silicon)",
             "linux-x64": "Linux"
         },
-        "sessionsStale": "You signed in a while ago. Sign out and back in to see your sessions."
+        "sessionsStale": "You signed in a while ago. Sign out and back in to see your sessions.",
+        "connections": "Connections",
+        "connectionsLede": "Use your own Spotify app in the game.",
+        "manage": "Manage"
     },
     "source": {
         "bundle": "Included with your Opal or Terminus purchase",
         "purchase": "Purchased",
         "admin_grant": "Granted by staff",
         "other": "Granted"
+    },
+    "connections": {
+        "title": "Connections",
+        "back": "Dashboard",
+        "lede": "Connect your own Spotify app to show and control your music in the game. Controls need Spotify Premium.",
+        "stateOn": "Connected",
+        "stateOff": "Not connected",
+        "account": "Connected as <name>{account}</name>",
+        "connect": "Connect",
+        "reconnect": "Reconnect",
+        "disconnect": "Disconnect",
+        "app": "Your Spotify app",
+        "stepCreate": "Create an app in the <link>Spotify developer dashboard</link> with the Web API turned on.",
+        "stepRedirect": "Add this redirect URI to the app:",
+        "stepPaste": "Paste the client ID and client secret of the app below, save, then connect.",
+        "clientId": "Client ID",
+        "clientSecret": "Client secret",
+        "secretKept": "Leave empty to keep the saved secret. It is never shown again.",
+        "save": "Save",
+        "badId": "That client ID is not valid.",
+        "badSecret": "That client secret is not valid.",
+        "secretNeeded": "A new client ID needs its client secret.",
+        "saveFailed": "Could not save. Try again in a moment.",
+        "tooMany": "Too many tries. Wait a minute.",
+        "saved": "Saved.",
+        "connected": "Spotify is connected.",
+        "disconnected": "Spotify is disconnected.",
+        "denied": "Spotify access was not granted.",
+        "expired": "That sign-in link expired. Connect again.",
+        "failed": "Something went wrong. Try again in a moment.",
+        "off": "Spotify connections are not available right now.",
+        "loadFailed": "Could not load. Try again in a moment."
     }
 }

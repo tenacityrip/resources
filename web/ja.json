@@ -161,12 +161,47 @@
       "macos-arm64": "macOS（Apple シリコン）",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "サインインから時間が経っています。セッションを表示するには、サインアウトして再度サインインしてください。"
+    "sessionsStale": "サインインから時間が経っています。セッションを表示するには、サインアウトして再度サインインしてください。",
+    "connections": "接続",
+    "connectionsLede": "ゲーム内でご自身のSpotifyアプリをご利用ください。",
+    "manage": "管理"
   },
   "source": {
     "bundle": "Opal または Terminus の購入に付属",
     "purchase": "購入済み",
     "admin_grant": "スタッフによる許可",
     "other": "許可"
+  },
+  "connections": {
+    "title": "接続",
+    "back": "ダッシュボード",
+    "lede": "ご自身のSpotifyアプリを接続すると、ゲーム内で音楽を表示・操作できます。操作にはSpotify Premiumが必要です。",
+    "stateOn": "接続済み",
+    "stateOff": "未接続",
+    "account": "<name>{account}</name> として接続済み",
+    "connect": "接続",
+    "reconnect": "再接続",
+    "disconnect": "切断",
+    "app": "あなたのSpotifyアプリ",
+    "stepCreate": "<link>Spotify開発者ダッシュボード</link>で、Web APIを有効にしたアプリを作成してください。",
+    "stepRedirect": "アプリにこのリダイレクトURIを追加してください：",
+    "stepPaste": "アプリのクライアントIDとクライアントシークレットを以下に貼り付け、保存後、接続してください。",
+    "clientId": "クライアント ID",
+    "clientSecret": "クライアント シークレット",
+    "secretKept": "保存済みのシークレットを残す場合は空欄のままにしてください。再表示されることはありません。",
+    "save": "保存",
+    "badId": "そのクライアントIDは無効です。",
+    "badSecret": "そのクライアントシークレットは無効です。",
+    "secretNeeded": "新しいクライアントIDには、そのクライアントシークレットが必要です。",
+    "saveFailed": "保存に失敗しました。しばらくしてからもう一度お試しください。",
+    "tooMany": "試行回数が多すぎます。1分ほどお待ちください。",
+    "saved": "保存しました。",
+    "connected": "Spotifyを接続しました。",
+    "disconnected": "Spotifyの接続を解除しました。",
+    "denied": "Spotifyへのアクセスが許可されませんでした。",
+    "expired": "サインインリンクの有効期限が切れています。再度接続してください。",
+    "failed": "問題が発生しました。しばらくしてからもう一度お試しください。",
+    "off": "Spotify接続は現在利用できません。",
+    "loadFailed": "読み込めませんでした。しばらくしてから再度お試しください。"
   }
 }

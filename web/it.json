@@ -161,12 +161,47 @@
       "macos-arm64": "macOS (chip Apple)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Hai effettuato l’accesso tempo fa. Esci e accedi di nuovo per vedere le tue sessioni."
+    "sessionsStale": "Hai effettuato l’accesso tempo fa. Esci e accedi di nuovo per vedere le tue sessioni.",
+    "connections": "Connessioni",
+    "connectionsLede": "Usa la tua app Spotify nel gioco.",
+    "manage": "Gestisci"
   },
   "source": {
     "bundle": "Incluso con l'acquisto di Opal o Terminus",
     "purchase": "Acquistato",
     "admin_grant": "Concesso dallo staff",
     "other": "Concesso"
+  },
+  "connections": {
+    "title": "Connessioni",
+    "back": "Dashboard",
+    "lede": "Collega la tua app Spotify per visualizzare e controllare la tua musica nel gioco. I controlli richiedono Spotify Premium.",
+    "stateOn": "Connesso",
+    "stateOff": "Non connesso",
+    "account": "Connesso come <name>{account}</name>",
+    "connect": "Connetti",
+    "reconnect": "Riconnetti",
+    "disconnect": "Disconnetti",
+    "app": "La tua app di Spotify",
+    "stepCreate": "Crea un’app nella <link>dashboard per sviluppatori di Spotify</link> con la Web API abilitata.",
+    "stepRedirect": "Aggiungi questo URI di reindirizzamento all'app:",
+    "stepPaste": "Incolla qui sotto il client ID e il client secret dell’app, salva, poi connetti.",
+    "clientId": "Client ID",
+    "clientSecret": "Client secret",
+    "secretKept": "Lascia vuoto per mantenere il secret salvato. Non verrà mai più mostrato.",
+    "save": "Salva",
+    "badId": "Questo client ID non è valido.",
+    "badSecret": "Questo client secret non è valido.",
+    "secretNeeded": "Un nuovo client ID richiede il suo client secret.",
+    "saveFailed": "Impossibile salvare. Riprova tra un momento.",
+    "tooMany": "Troppi tentativi. Aspetta un minuto.",
+    "saved": "Salvato.",
+    "connected": "Spotify è connesso.",
+    "disconnected": "Spotify è disconnesso.",
+    "denied": "L'accesso a Spotify non è stato consentito.",
+    "expired": "Il link di accesso è scaduto. Connettiti di nuovo.",
+    "failed": "Qualcosa è andato storto. Riprova tra un momento.",
+    "off": "Le connessioni Spotify non sono disponibili al momento.",
+    "loadFailed": "Impossibile caricare. Riprova tra un momento."
   }
 }

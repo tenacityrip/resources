@@ -210,12 +210,10 @@
     "compare": "Tenacity が含まれる購入",
     "opal": {
       "unit": "USD",
-      "billing": "一回払いでずっと使えます",
       "button": "Opal を購入"
     },
     "terminus": {
       "unit": "USD / 月",
-      "billing": "月額サブスクリプション",
       "button": "登録する"
     },
     "item": {
@@ -239,12 +237,13 @@
       },
       "pick": {
         "q": "どちらを買えばいいですか?",
-        "a": "Opal は一回払い $8.99 で、Hyp と CC 向けです。Terminus: Minigame Edition は月額 $19.99 で、あらゆるサーバー向けです。どちらも Tenacity 付きです。"
+        "a": "Opal は一回払い $8.99 で、Hyp と CC 向けです。Terminus: Minigame Edition は月額 $19.99 からで、あらゆるサーバー向けです。どちらも Tenacity 付きです。"
       },
       "version": {
         "q": "Tenacity はどの Minecraft バージョンで動きますか?",
         "a": "Minecraft: Java Edition 1.8.9 で、Windows、macOS、Linux に対応しています。"
       }
-    }
+    },
+    "from": "最低価格"
   }
 }

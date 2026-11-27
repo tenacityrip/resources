@@ -210,12 +210,10 @@
         "compare": "Purchases that include Tenacity",
         "opal": {
             "unit": "USD",
-            "billing": "One payment, yours for life",
             "button": "Buy Opal"
         },
         "terminus": {
             "unit": "USD / month",
-            "billing": "Monthly subscription",
             "button": "Subscribe"
         },
         "item": {
@@ -239,12 +237,13 @@
             },
             "pick": {
                 "q": "Which one should I buy?",
-                "a": "Opal is $8.99 once and is built for Hyp and CC. Terminus: Minigame Edition is $19.99 a month and is built for every server. Both include Tenacity."
+                "a": "Opal is $8.99 once and is built for Hyp and CC. Terminus: Minigame Edition starts at $19.99 a month and is built for every server. Both include Tenacity."
             },
             "version": {
                 "q": "Which Minecraft version does Tenacity run on?",
                 "a": "Minecraft: Java Edition 1.8.9, on Windows, macOS and Linux."
             }
-        }
+        },
+        "from": "Starting at"
     }
 }

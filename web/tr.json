@@ -210,12 +210,10 @@
     "compare": "Tenacity içeren satın alımlar",
     "opal": {
       "unit": "USD",
-      "billing": "Tek ödeme, sonsuza dek senin",
       "button": "Opal satın al"
     },
     "terminus": {
       "unit": "USD / ay",
-      "billing": "Aylık abonelik",
       "button": "Abone ol"
     },
     "item": {
@@ -239,12 +237,13 @@
       },
       "pick": {
         "q": "Hangisini almalıyım?",
-        "a": "Opal tek seferlik 8,99 $ ve Hyp ile CC için yapıldı. Terminus: Minigame Edition ayda 19,99 $ ve her sunucu için yapıldı. İkisi de Tenacity içerir."
+        "a": "Opal tek seferlik 8,99 $ ve Hyp ile CC için yapıldı. Terminus: Minigame Edition ayda 19,99 $'dan başlar ve her sunucu için yapıldı. İkisi de Tenacity içerir."
       },
       "version": {
         "q": "Tenacity hangi Minecraft sürümünde çalışır?",
         "a": "Minecraft: Java Edition 1.8.9, Windows, macOS ve Linux üzerinde."
       }
-    }
+    },
+    "from": "Başlangıç"
   }
 }

@@ -210,12 +210,10 @@
     "compare": "包含 Tenacity 的购买方案",
     "opal": {
       "unit": "USD",
-      "billing": "一次付款,永久拥有",
       "button": "购买 Opal"
     },
     "terminus": {
       "unit": "USD / 月",
-      "billing": "按月订阅",
       "button": "订阅"
     },
     "item": {
@@ -239,12 +237,13 @@
       },
       "pick": {
         "q": "我该买哪个?",
-        "a": "Opal 一次性 $8.99,专为 Hyp 和 CC 打造。Terminus: Minigame Edition 每月 $19.99,适用于所有服务器。两者都包含 Tenacity。"
+        "a": "Opal 一次性 $8.99,专为 Hyp 和 CC 打造。Terminus: Minigame Edition 每月 $19.99 起,适用于所有服务器。两者都包含 Tenacity。"
       },
       "version": {
         "q": "Tenacity 运行在哪个 Minecraft 版本?",
         "a": "Minecraft: Java Edition 1.8.9,支持 Windows、macOS 和 Linux。"
       }
-    }
+    },
+    "from": "起价"
   }
 }

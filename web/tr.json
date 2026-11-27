@@ -221,8 +221,7 @@
     "item": {
       "opal": "Opal",
       "terminus": "Terminus: Minigame Edition",
-      "tenacity": "Tenacity",
-      "updates": "Gelecekteki tüm güncellemeler"
+      "tenacity": "Tenacity"
     },
     "stepsTitle": "Satın aldıktan sonra",
     "step1": "Opal veya Terminus'u kendi sitesinden satın al.",
@@ -240,7 +239,7 @@
       },
       "pick": {
         "q": "Hangisini almalıyım?",
-        "a": "Opal tek seferlik 8,99 $ ve Hyp ile CC için yapıldı. Terminus: Minigame Edition ayda 20 $ ve her sunucu için yapıldı. İkisi de Tenacity içerir."
+        "a": "Opal tek seferlik 8,99 $ ve Hyp ile CC için yapıldı. Terminus: Minigame Edition ayda 19,99 $ ve her sunucu için yapıldı. İkisi de Tenacity içerir."
       },
       "version": {
         "q": "Tenacity hangi Minecraft sürümünde çalışır?",

@@ -221,8 +221,7 @@
     "item": {
       "opal": "Opal",
       "terminus": "Terminus: Minigame Edition",
-      "tenacity": "Tenacity",
-      "updates": "所有未来更新"
+      "tenacity": "Tenacity"
     },
     "stepsTitle": "购买之后",
     "step1": "在各自的网站购买 Opal 或 Terminus。",
@@ -240,7 +239,7 @@
       },
       "pick": {
         "q": "我该买哪个?",
-        "a": "Opal 一次性 $8.99,专为 Hyp 和 CC 打造。Terminus: Minigame Edition 每月 $20,适用于所有服务器。两者都包含 Tenacity。"
+        "a": "Opal 一次性 $8.99,专为 Hyp 和 CC 打造。Terminus: Minigame Edition 每月 $19.99,适用于所有服务器。两者都包含 Tenacity。"
       },
       "version": {
         "q": "Tenacity 运行在哪个 Minecraft 版本?",

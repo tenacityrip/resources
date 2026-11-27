@@ -192,6 +192,7 @@ module.speed.name=速度
 module.speedmine.name=快速挖掘
 module.spider.name=蜘蛛人
 module.spotify.name=Spotify
+module.music.name=音乐
 module.sprint.name=自动疾跑
 module.step.name=自动上台阶
 module.streamer.name=主播模式

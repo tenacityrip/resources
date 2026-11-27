@@ -192,6 +192,7 @@ module.speed.name=スピード
 module.speedmine.name=高速採掘
 module.spider.name=壁登り
 module.spotify.name=Spotify
+module.music.name=ミュージック
 module.sprint.name=自動ダッシュ
 module.step.name=ステップ
 module.streamer.name=配信者モード

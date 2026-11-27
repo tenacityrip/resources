@@ -192,6 +192,7 @@ module.speed.name=السرعة
 module.speedmine.name=التعدين السريع
 module.spider.name=عنكبوت
 module.spotify.name=Spotify
+module.music.name=موسيقى
 module.sprint.name=الركض التلقائي
 module.step.name=صعود الكتل
 module.streamer.name=وضع البث

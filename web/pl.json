@@ -77,7 +77,8 @@
     "terms": "Regulamin",
     "privacy": "Polityka prywatności",
     "openSource": "Stworzono z użyciem oprogramowania open source od <trq>trq.lol</trq>.",
-    "disclaimer": "To nie jest oficjalny produkt Minecraft. Nie został zatwierdzony przez Mojang ani Microsoft i nie jest z nimi powiązany."
+    "disclaimer": "To nie jest oficjalny produkt Minecraft. Nie został zatwierdzony przez Mojang ani Microsoft i nie jest z nimi powiązany.",
+    "branding": "Marka"
   },
   "legal": {
     "updated": "Ostatnia aktualizacja {date}",
@@ -245,5 +246,42 @@
       }
     },
     "from": "Od"
+  },
+  "branding": {
+    "title": "Marka Tenacity",
+    "description": "Logo, kolory i zasady użycia dla prasy, twórców i resellerów.",
+    "logos": "Logo",
+    "logo": {
+      "wordmarkDark": "Logotyp, ciemny",
+      "wordmarkLight": "Logotyp, jasny",
+      "wordmarkBrand": "Logotyp, na gradiencie",
+      "icon": "Ikona"
+    },
+    "colors": "Kolory",
+    "color": {
+      "gradient": "Gradient marki",
+      "blue": "Niebieski",
+      "lavender": "Lawendowy",
+      "pink": "Różowy",
+      "ink": "Atrament"
+    },
+    "font": "Krój: Greycliff CF",
+    "usage": "Użycie",
+    "do": {
+      "title": "Tak",
+      "a": "Używaj plików z tej strony",
+      "b": "Zachowaj proporcje przy skalowaniu",
+      "c": "Umieszczaj na tłach z wystarczającym kontrastem",
+      "d": "Podawaj Tenacity, gdy to stosowne"
+    },
+    "dont": {
+      "title": "Nie",
+      "a": "Zmieniać ani zniekształcać logo",
+      "b": "Sugerować poparcia bez zgody",
+      "c": "Umieszczać na zatłoczonych tłach lub w podobnym kolorze",
+      "d": "Odtwarzać logo z innych źródeł"
+    },
+    "copy": "Kopiuj hex",
+    "copied": "Skopiowano"
   }
 }

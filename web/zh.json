@@ -77,7 +77,8 @@
     "terms": "服务条款",
     "privacy": "隐私政策",
     "openSource": "使用 <trq>trq.lol</trq> 的开源软件构建。",
-    "disclaimer": "非 Minecraft 官方产品。未经 Mojang 或 Microsoft 批准，也与其无关联。"
+    "disclaimer": "非 Minecraft 官方产品。未经 Mojang 或 Microsoft 批准，也与其无关联。",
+    "branding": "品牌"
   },
   "legal": {
     "updated": "最后更新 {date}",
@@ -245,5 +246,42 @@
       }
     },
     "from": "起价"
+  },
+  "branding": {
+    "title": "Tenacity 品牌",
+    "description": "面向媒体、创作者和经销商的标志、颜色与使用规范。",
+    "logos": "标志",
+    "logo": {
+      "wordmarkDark": "字标(深色)",
+      "wordmarkLight": "字标(浅色)",
+      "wordmarkBrand": "字标(渐变背景)",
+      "icon": "图标"
+    },
+    "colors": "颜色",
+    "color": {
+      "gradient": "品牌渐变",
+      "blue": "蓝",
+      "lavender": "薰衣草紫",
+      "pink": "粉",
+      "ink": "墨色"
+    },
+    "font": "字体:Greycliff CF",
+    "usage": "使用规范",
+    "do": {
+      "title": "可以",
+      "a": "使用本页提供的文件",
+      "b": "缩放时保持宽高比",
+      "c": "放在对比度足够的背景上",
+      "d": "在适当的地方注明 Tenacity"
+    },
+    "dont": {
+      "title": "不可以",
+      "a": "修改或扭曲标志",
+      "b": "未经许可暗示合作或认可",
+      "c": "放在杂乱或颜色相近的背景上",
+      "d": "从其他来源重新制作标志"
+    },
+    "copy": "复制色值",
+    "copied": "已复制"
   }
 }

@@ -77,7 +77,8 @@
     "terms": "Hizmet Şartları",
     "privacy": "Gizlilik Politikası",
     "openSource": "<trq>trq.lol</trq> açık kaynak yazılımlarıyla geliştirildi.",
-    "disclaimer": "Resmi bir Minecraft ürünü değildir. Mojang veya Microsoft tarafından onaylanmamıştır ve onlarla bağlantılı değildir."
+    "disclaimer": "Resmi bir Minecraft ürünü değildir. Mojang veya Microsoft tarafından onaylanmamıştır ve onlarla bağlantılı değildir.",
+    "branding": "Marka"
   },
   "legal": {
     "updated": "Son güncelleme {date} tarihinde.",
@@ -245,5 +246,42 @@
       }
     },
     "from": "Başlangıç"
+  },
+  "branding": {
+    "title": "Tenacity markası",
+    "description": "Basın, içerik üreticileri ve bayiler için logolar, renkler ve kullanım kuralları.",
+    "logos": "Logolar",
+    "logo": {
+      "wordmarkDark": "Yazı logosu, koyu",
+      "wordmarkLight": "Yazı logosu, açık",
+      "wordmarkBrand": "Yazı logosu, gradyan üzerinde",
+      "icon": "Simge"
+    },
+    "colors": "Renkler",
+    "color": {
+      "gradient": "Marka gradyanı",
+      "blue": "Mavi",
+      "lavender": "Lavanta",
+      "pink": "Pembe",
+      "ink": "Mürekkep"
+    },
+    "font": "Yazı tipi: Greycliff CF",
+    "usage": "Kullanım",
+    "do": {
+      "title": "Yap",
+      "a": "Bu sayfadaki dosyaları kullan",
+      "b": "Boyutlandırırken en-boy oranını koru",
+      "c": "Yeterli kontrastı olan arka planlarda kullan",
+      "d": "Uygun yerlerde Tenacity'yi belirt"
+    },
+    "dont": {
+      "title": "Yapma",
+      "a": "Logoyu değiştirme veya bozma",
+      "b": "İzinsiz destek ima etme",
+      "c": "Kalabalık veya benzer renkli arka planlara koyma",
+      "d": "Logoyu başka kaynaklardan yeniden yapma"
+    },
+    "copy": "Hex'i kopyala",
+    "copied": "Kopyalandı"
   }
 }

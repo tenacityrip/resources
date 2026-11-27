@@ -77,7 +77,8 @@
     "terms": "利用規約",
     "privacy": "プライバシーポリシー",
     "openSource": "<trq>trq.lol</trq> のオープンソースソフトウェアを使用しています。",
-    "disclaimer": "Minecraft の公式製品ではありません。Mojang および Microsoft の承認を受けておらず、提携関係もありません。"
+    "disclaimer": "Minecraft の公式製品ではありません。Mojang および Microsoft の承認を受けておらず、提携関係もありません。",
+    "branding": "ブランド"
   },
   "legal": {
     "updated": "最終更新日：{date}",
@@ -245,5 +246,42 @@
       }
     },
     "from": "最低価格"
+  },
+  "branding": {
+    "title": "Tenacity ブランド",
+    "description": "報道・クリエイター・販売店向けのロゴ、カラー、使用ルール。",
+    "logos": "ロゴ",
+    "logo": {
+      "wordmarkDark": "ワードマーク(ダーク)",
+      "wordmarkLight": "ワードマーク(ライト)",
+      "wordmarkBrand": "ワードマーク(グラデーション)",
+      "icon": "アイコン"
+    },
+    "colors": "カラー",
+    "color": {
+      "gradient": "ブランドグラデーション",
+      "blue": "ブルー",
+      "lavender": "ラベンダー",
+      "pink": "ピンク",
+      "ink": "インク"
+    },
+    "font": "書体:Greycliff CF",
+    "usage": "使用ルール",
+    "do": {
+      "title": "推奨",
+      "a": "このページのファイルを使う",
+      "b": "拡大縮小時は縦横比を保つ",
+      "c": "十分なコントラストのある背景に置く",
+      "d": "必要に応じて Tenacity をクレジットする"
+    },
+    "dont": {
+      "title": "禁止",
+      "a": "ロゴを変更・変形する",
+      "b": "許可なく提携を示唆する",
+      "c": "ごちゃついた背景や似た色の背景に置く",
+      "d": "他のソースからロゴを作り直す"
+    },
+    "copy": "HEX をコピー",
+    "copied": "コピーしました"
   }
 }

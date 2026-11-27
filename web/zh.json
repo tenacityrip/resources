@@ -206,28 +206,46 @@
   },
   "purchase": {
     "title": "获取 Tenacity",
-    "description": "Tenacity 不单独出售。每次购买 Opal 或 Terminus 都会终身免费附带。",
-    "disclosure": "Tenacity 没有单独的价格。购买 Opal 或 Terminus 是获取它的唯一方式,两者都包含它。",
-    "includes": "包含 Tenacity",
-    "currency": "USD",
-    "lifetime": "一次性付款,终身使用",
+    "description": "Tenacity 不单独出售。Opal 和 Terminus: Minigame Edition 都包含它。",
+    "compare": "包含 Tenacity 的购买方案",
     "opal": {
+      "unit": "USD",
+      "billing": "一次付款,永久拥有",
       "button": "购买 Opal"
     },
     "terminus": {
-      "button": "购买 Terminus",
-      "support": "优先支持"
+      "unit": "USD / 月",
+      "billing": "按月订阅",
+      "button": "订阅"
     },
-    "stepsTitle": "购买之后",
-    "owned": "已经拥有 Opal 或 Terminus?你已经拥有 Tenacity。<dashboard>前往控制台</dashboard>。",
     "item": {
-      "opal": "Opal,终身",
-      "terminus": "Terminus,终身",
-      "tenacity": "Tenacity,终身",
+      "opal": "Opal",
+      "terminus": "Terminus: Minigame Edition",
+      "tenacity": "Tenacity",
       "updates": "所有未来更新"
     },
+    "stepsTitle": "购买之后",
     "step1": "在各自的网站购买 Opal 或 Terminus。",
     "step2": "使用同一账户在此登录<dashboard>控制台</dashboard>。",
-    "step3": "下载启动器。Tenacity 已在你的账户中。"
+    "step3": "下载启动器。Tenacity 已在你的账户中。",
+    "faqTitle": "常见问题",
+    "faq": {
+      "alone": {
+        "q": "可以单独购买 Tenacity 吗?",
+        "a": "不可以。Tenacity 只随 Opal 或 Terminus: Minigame Edition 提供。"
+      },
+      "owned": {
+        "q": "我已有 Opal 或 Terminus,我有 Tenacity 吗?",
+        "a": "有。用同一账户登录控制台即可下载。"
+      },
+      "pick": {
+        "q": "我该买哪个?",
+        "a": "Opal 一次性 $8.99,专为 Hyp 和 CC 打造。Terminus: Minigame Edition 每月 $20,适用于所有服务器。两者都包含 Tenacity。"
+      },
+      "version": {
+        "q": "Tenacity 运行在哪个 Minecraft 版本?",
+        "a": "Minecraft: Java Edition 1.8.9,支持 Windows、macOS 和 Linux。"
+      }
+    }
   }
 }

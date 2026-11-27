@@ -206,28 +206,46 @@
   },
   "purchase": {
     "title": "Tenacity を入手",
-    "description": "Tenacity は単体では販売していません。Opal と Terminus のすべての購入に永久無料で含まれます。",
-    "disclosure": "Tenacity に個別の価格はありません。入手方法は Opal または Terminus の購入のみで、どちらにも含まれています。",
-    "includes": "Tenacity 付き",
-    "currency": "USD",
-    "lifetime": "一回払い、永久アクセス",
+    "description": "Tenacity は単体では販売していません。Opal と Terminus: Minigame Edition のどちらにも含まれます。",
+    "compare": "Tenacity が含まれる購入",
     "opal": {
+      "unit": "USD",
+      "billing": "一回払いでずっと使えます",
       "button": "Opal を購入"
     },
     "terminus": {
-      "button": "Terminus を購入",
-      "support": "優先サポート"
+      "unit": "USD / 月",
+      "billing": "月額サブスクリプション",
+      "button": "登録する"
     },
-    "stepsTitle": "購入後の流れ",
-    "owned": "すでに Opal または Terminus をお持ちですか?Tenacity もすでに利用できます。<dashboard>ダッシュボードへ</dashboard>。",
     "item": {
-      "opal": "Opal(永久)",
-      "terminus": "Terminus(永久)",
-      "tenacity": "Tenacity(永久)",
+      "opal": "Opal",
+      "terminus": "Terminus: Minigame Edition",
+      "tenacity": "Tenacity",
       "updates": "今後のすべてのアップデート"
     },
+    "stepsTitle": "購入後の流れ",
     "step1": "Opal または Terminus をそれぞれのサイトで購入します。",
     "step2": "同じアカウントでこちらの<dashboard>ダッシュボード</dashboard>にサインインします。",
-    "step3": "ランチャーをダウンロードします。Tenacity はすでにアカウントに追加されています。"
+    "step3": "ランチャーをダウンロードします。Tenacity はすでにアカウントに追加されています。",
+    "faqTitle": "よくある質問",
+    "faq": {
+      "alone": {
+        "q": "Tenacity だけを購入できますか?",
+        "a": "いいえ。Tenacity は Opal または Terminus: Minigame Edition でのみ入手できます。"
+      },
+      "owned": {
+        "q": "Opal か Terminus を持っています。Tenacity も使えますか?",
+        "a": "はい。同じアカウントでダッシュボードにサインインしてダウンロードしてください。"
+      },
+      "pick": {
+        "q": "どちらを買えばいいですか?",
+        "a": "Opal は一回払い $8.99 で、Hyp と CC 向けです。Terminus: Minigame Edition は月額 $20 で、あらゆるサーバー向けです。どちらも Tenacity 付きです。"
+      },
+      "version": {
+        "q": "Tenacity はどの Minecraft バージョンで動きますか?",
+        "a": "Minecraft: Java Edition 1.8.9 で、Windows、macOS、Linux に対応しています。"
+      }
+    }
   }
 }

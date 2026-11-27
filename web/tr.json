@@ -206,28 +206,46 @@
   },
   "purchase": {
     "title": "Tenacity'yi edin",
-    "description": "Tenacity tek başına satılmaz. Her Opal ve Terminus satın alımına ömür boyu ücretsiz dahildir.",
-    "disclosure": "Tenacity'nin kendi fiyatı yoktur. Onu almanın tek yolu Opal veya Terminus satın almaktır ve ikisi de onu içerir.",
-    "includes": "Tenacity dahil",
-    "currency": "USD",
-    "lifetime": "Tek seferlik ödeme, ömür boyu erişim",
+    "description": "Tenacity tek başına satılmaz. Opal ve Terminus: Minigame Edition ikisi de içerir.",
+    "compare": "Tenacity içeren satın alımlar",
     "opal": {
+      "unit": "USD",
+      "billing": "Tek ödeme, sonsuza dek senin",
       "button": "Opal satın al"
     },
     "terminus": {
-      "button": "Terminus satın al",
-      "support": "Öncelikli destek"
+      "unit": "USD / ay",
+      "billing": "Aylık abonelik",
+      "button": "Abone ol"
     },
-    "stepsTitle": "Satın aldıktan sonra",
-    "owned": "Zaten Opal veya Terminus'un var mı? O zaman Tenacity de sende. <dashboard>Panele git</dashboard>.",
     "item": {
-      "opal": "Opal, ömür boyu",
-      "terminus": "Terminus, ömür boyu",
-      "tenacity": "Tenacity, ömür boyu",
+      "opal": "Opal",
+      "terminus": "Terminus: Minigame Edition",
+      "tenacity": "Tenacity",
       "updates": "Gelecekteki tüm güncellemeler"
     },
+    "stepsTitle": "Satın aldıktan sonra",
     "step1": "Opal veya Terminus'u kendi sitesinden satın al.",
     "step2": "Aynı hesapla buradaki <dashboard>panele</dashboard> giriş yap.",
-    "step3": "Başlatıcıyı indir. Tenacity zaten hesabında."
+    "step3": "Başlatıcıyı indir. Tenacity zaten hesabında.",
+    "faqTitle": "Sorular",
+    "faq": {
+      "alone": {
+        "q": "Tenacity'yi tek başına alabilir miyim?",
+        "a": "Hayır. Tenacity yalnızca Opal veya Terminus: Minigame Edition ile gelir."
+      },
+      "owned": {
+        "q": "Zaten Opal veya Terminus'um var. Tenacity'ye sahip miyim?",
+        "a": "Evet. Aynı hesapla panele giriş yap ve indir."
+      },
+      "pick": {
+        "q": "Hangisini almalıyım?",
+        "a": "Opal tek seferlik 8,99 $ ve Hyp ile CC için yapıldı. Terminus: Minigame Edition ayda 20 $ ve her sunucu için yapıldı. İkisi de Tenacity içerir."
+      },
+      "version": {
+        "q": "Tenacity hangi Minecraft sürümünde çalışır?",
+        "a": "Minecraft: Java Edition 1.8.9, Windows, macOS ve Linux üzerinde."
+      }
+    }
   }
 }

@@ -206,28 +206,46 @@
   },
   "purchase": {
     "title": "Obtenir Tenacity",
-    "description": "Tenacity n'est pas vendu seul. Il est inclus gratuitement à vie avec chaque achat d'Opal et de Terminus.",
-    "disclosure": "Tenacity n'a pas de prix propre. Acheter Opal ou Terminus est le seul moyen de l'obtenir, et les deux l'incluent.",
-    "includes": "Inclut Tenacity",
-    "currency": "USD",
-    "lifetime": "Paiement unique, accès à vie",
+    "description": "Tenacity n'est pas vendu seul. Opal et Terminus: Minigame Edition l'incluent tous les deux.",
+    "compare": "Achats qui incluent Tenacity",
     "opal": {
+      "unit": "USD",
+      "billing": "Un seul paiement, à vous pour toujours",
       "button": "Acheter Opal"
     },
     "terminus": {
-      "button": "Acheter Terminus",
-      "support": "Support prioritaire"
+      "unit": "USD / mois",
+      "billing": "Abonnement mensuel",
+      "button": "S'abonner"
     },
-    "stepsTitle": "Après l'achat",
-    "owned": "Vous possédez déjà Opal ou Terminus ? Vous avez déjà Tenacity. <dashboard>Aller au tableau de bord</dashboard>.",
     "item": {
-      "opal": "Opal, à vie",
-      "terminus": "Terminus, à vie",
-      "tenacity": "Tenacity, à vie",
+      "opal": "Opal",
+      "terminus": "Terminus: Minigame Edition",
+      "tenacity": "Tenacity",
       "updates": "Toutes les mises à jour futures"
     },
+    "stepsTitle": "Après l'achat",
     "step1": "Achetez Opal ou Terminus sur son propre site.",
     "step2": "Connectez-vous ici au <dashboard>tableau de bord</dashboard> avec le même compte.",
-    "step3": "Téléchargez le launcher. Tenacity est déjà sur votre compte."
+    "step3": "Téléchargez le launcher. Tenacity est déjà sur votre compte.",
+    "faqTitle": "Questions",
+    "faq": {
+      "alone": {
+        "q": "Puis-je acheter Tenacity seul ?",
+        "a": "Non. Tenacity est disponible uniquement avec Opal ou Terminus: Minigame Edition."
+      },
+      "owned": {
+        "q": "J'ai déjà Opal ou Terminus. Ai-je Tenacity ?",
+        "a": "Oui. Connectez-vous au tableau de bord avec le même compte et téléchargez-le."
+      },
+      "pick": {
+        "q": "Lequel acheter ?",
+        "a": "Opal coûte 8,99 $ une fois et est conçu pour Hyp et CC. Terminus: Minigame Edition coûte 20 $ par mois et est conçu pour tous les serveurs. Les deux incluent Tenacity."
+      },
+      "version": {
+        "q": "Sur quelle version de Minecraft Tenacity fonctionne-t-il ?",
+        "a": "Minecraft: Java Edition 1.8.9, sous Windows, macOS et Linux."
+      }
+    }
   }
 }

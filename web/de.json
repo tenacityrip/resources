@@ -172,7 +172,6 @@
   },
   "connections": {
     "lede": "Zeige und steuere deine Musik im Spiel. Die Steuerung erfordert Spotify Premium.",
-    "stateOn": "Verbunden",
     "stateOff": "Nicht verbunden",
     "account": "Verbunden als <name>{account}</name>",
     "connect": "Verbinden",
@@ -198,7 +197,6 @@
     "failed": "Etwas ist schiefgelaufen. Versuche es gleich noch einmal.",
     "off": "Spotify-Verbindungen sind derzeit nicht verfügbar.",
     "loadFailed": "Laden fehlgeschlagen. Versuche es gleich noch einmal.",
-    "ready": "Deine App ist gespeichert. Verbinde dein Spotify-Konto.",
     "changeApp": "Spotify-App ändern",
     "show": "Anzeigen",
     "hide": "Verbergen",

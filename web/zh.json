@@ -172,7 +172,6 @@
   },
   "connections": {
     "lede": "在游戏中显示和控制你的音乐。控制功能需要 Spotify Premium。",
-    "stateOn": "已连接",
     "stateOff": "未连接",
     "account": "已连接为 <name>{account}</name>",
     "connect": "连接",
@@ -198,7 +197,6 @@
     "failed": "出错了，请稍后再试。",
     "off": "Spotify 连接目前不可用。",
     "loadFailed": "无法加载。请稍后再试。",
-    "ready": "你的应用已保存。请连接你的 Spotify 账户。",
     "changeApp": "更换 Spotify 应用",
     "show": "显示",
     "hide": "隐藏",

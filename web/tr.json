@@ -172,7 +172,6 @@
   },
   "connections": {
     "lede": "Müziğini oyunda göster ve kontrol et. Kontroller için Spotify Premium gerekir.",
-    "stateOn": "Bağlı",
     "stateOff": "Bağlı değil",
     "account": "<name>{account}</name> olarak bağlandı",
     "connect": "Bağlan",
@@ -198,7 +197,6 @@
     "failed": "Bir sorun oluştu. Birazdan tekrar deneyin.",
     "off": "Spotify bağlantıları şu anda kullanılamıyor.",
     "loadFailed": "Yüklenemedi. Birazdan tekrar deneyin.",
-    "ready": "Uygulaman kaydedildi. Spotify hesabını bağla.",
     "changeApp": "Spotify uygulamasını değiştir",
     "show": "Göster",
     "hide": "Gizle",

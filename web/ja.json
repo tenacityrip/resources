@@ -172,7 +172,6 @@
   },
   "connections": {
     "lede": "ゲーム内で音楽を表示・操作できます。操作には Spotify Premium が必要です。",
-    "stateOn": "接続済み",
     "stateOff": "未接続",
     "account": "<name>{account}</name> として接続済み",
     "connect": "接続",
@@ -198,7 +197,6 @@
     "failed": "問題が発生しました。しばらくしてからもう一度お試しください。",
     "off": "Spotify接続は現在利用できません。",
     "loadFailed": "読み込めませんでした。しばらくしてから再度お試しください。",
-    "ready": "アプリを保存しました。Spotify アカウントを接続してください。",
     "changeApp": "Spotify アプリを変更",
     "show": "表示",
     "hide": "非表示",

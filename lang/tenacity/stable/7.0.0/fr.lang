@@ -192,6 +192,7 @@ module.speed.name=Vitesse
 module.speedmine.name=SpeedMine
 module.spider.name=Araignée
 module.spotify.name=Spotify
+module.music.name=Musique
 module.sprint.name=Sprint
 module.step.name=Step
 module.streamer.name=Streamer

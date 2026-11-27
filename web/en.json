@@ -161,10 +161,7 @@
             "macos-arm64": "macOS (Apple silicon)",
             "linux-x64": "Linux"
         },
-        "sessionsStale": "You signed in a while ago. Sign out and back in to see your sessions.",
-        "connections": "Connections",
-        "connectionsLede": "Use your own Spotify app in the game.",
-        "manage": "Manage"
+        "sessionsStale": "You signed in a while ago. Sign out and back in to see your sessions."
     },
     "source": {
         "bundle": "Included with your Opal or Terminus purchase",
@@ -173,22 +170,19 @@
         "other": "Granted"
     },
     "connections": {
-        "title": "Connections",
-        "back": "Dashboard",
-        "lede": "Connect your own Spotify app to show and control your music in the game. Controls need Spotify Premium.",
+        "lede": "Show and control your music in game. Controls need Spotify Premium.",
         "stateOn": "Connected",
         "stateOff": "Not connected",
         "account": "Connected as <name>{account}</name>",
         "connect": "Connect",
-        "reconnect": "Reconnect",
         "disconnect": "Disconnect",
-        "app": "Your Spotify app",
-        "stepCreate": "Create an app in the <link>Spotify developer dashboard</link> with the Web API turned on.",
-        "stepRedirect": "Add this redirect URI to the app:",
-        "stepPaste": "Paste the client ID and client secret of the app below, save, then connect.",
+        "app": "Set up your Spotify app",
+        "stepCreate": "Create an app in the <link>Spotify developer dashboard</link> with Web API enabled.",
+        "stepRedirect": "Add this redirect URI:",
+        "stepPaste": "Paste the client ID and secret below, then save.",
         "clientId": "Client ID",
         "clientSecret": "Client secret",
-        "secretKept": "Leave empty to keep the saved secret. It is never shown again.",
+        "secretKept": "Leave blank to keep your saved secret.",
         "save": "Save",
         "badId": "That client ID is not valid.",
         "badSecret": "That client secret is not valid.",
@@ -196,12 +190,44 @@
         "saveFailed": "Could not save. Try again in a moment.",
         "tooMany": "Too many tries. Wait a minute.",
         "saved": "Saved.",
-        "connected": "Spotify is connected.",
-        "disconnected": "Spotify is disconnected.",
-        "denied": "Spotify access was not granted.",
-        "expired": "That sign-in link expired. Connect again.",
+        "connected": "Connected to Spotify.",
+        "disconnected": "Disconnected from Spotify.",
+        "denied": "Spotify access was denied.",
+        "expired": "That link expired. Connect again.",
         "failed": "Something went wrong. Try again in a moment.",
         "off": "Spotify connections are not available right now.",
-        "loadFailed": "Could not load. Try again in a moment."
+        "loadFailed": "Could not load. Try again in a moment.",
+        "ready": "Your app is saved. Connect your Spotify account.",
+        "changeApp": "Change Spotify app",
+        "show": "Show",
+        "hide": "Hide",
+        "copy": "Copy",
+        "copied": "Copied"
+    },
+    "purchase": {
+        "title": "Get Tenacity",
+        "description": "Tenacity is not sold on its own. It comes free for life with every Opal and Terminus purchase.",
+        "disclosure": "Tenacity has no price of its own. Buying Opal or Terminus is the only way to get it, and both include it.",
+        "includes": "Includes Tenacity",
+        "currency": "USD",
+        "lifetime": "One-time payment, lifetime access",
+        "opal": {
+            "button": "Buy Opal"
+        },
+        "terminus": {
+            "button": "Buy Terminus",
+            "support": "Priority support"
+        },
+        "stepsTitle": "After you buy",
+        "owned": "Already own Opal or Terminus? You already have Tenacity. <dashboard>Go to the dashboard</dashboard>.",
+        "item": {
+            "opal": "Opal, lifetime",
+            "terminus": "Terminus, lifetime",
+            "tenacity": "Tenacity, lifetime",
+            "updates": "All future updates"
+        },
+        "step1": "Buy Opal or Terminus on its own site.",
+        "step2": "Sign in to the <dashboard>dashboard</dashboard> here with the same account.",
+        "step3": "Download the launcher. Tenacity is already on your account."
     }
 }

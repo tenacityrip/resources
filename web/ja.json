@@ -161,10 +161,7 @@
       "macos-arm64": "macOS（Apple シリコン）",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "サインインから時間が経っています。セッションを表示するには、サインアウトして再度サインインしてください。",
-    "connections": "接続",
-    "connectionsLede": "ゲーム内でご自身のSpotifyアプリをご利用ください。",
-    "manage": "管理"
+    "sessionsStale": "サインインから時間が経っています。セッションを表示するには、サインアウトして再度サインインしてください。"
   },
   "source": {
     "bundle": "Opal または Terminus の購入に付属",
@@ -173,22 +170,19 @@
     "other": "許可"
   },
   "connections": {
-    "title": "接続",
-    "back": "ダッシュボード",
-    "lede": "ご自身のSpotifyアプリを接続すると、ゲーム内で音楽を表示・操作できます。操作にはSpotify Premiumが必要です。",
+    "lede": "ゲーム内で音楽を表示・操作できます。操作には Spotify Premium が必要です。",
     "stateOn": "接続済み",
     "stateOff": "未接続",
     "account": "<name>{account}</name> として接続済み",
     "connect": "接続",
-    "reconnect": "再接続",
     "disconnect": "切断",
-    "app": "あなたのSpotifyアプリ",
-    "stepCreate": "<link>Spotify開発者ダッシュボード</link>で、Web APIを有効にしたアプリを作成してください。",
-    "stepRedirect": "アプリにこのリダイレクトURIを追加してください：",
-    "stepPaste": "アプリのクライアントIDとクライアントシークレットを以下に貼り付け、保存後、接続してください。",
+    "app": "Spotify アプリを設定",
+    "stepCreate": "<link>Spotify 開発者ダッシュボード</link>で Web API を有効にしたアプリを作成します。",
+    "stepRedirect": "このリダイレクト URI を追加します:",
+    "stepPaste": "下にクライアント ID とシークレットを貼り付けて保存します。",
     "clientId": "クライアント ID",
     "clientSecret": "クライアント シークレット",
-    "secretKept": "保存済みのシークレットを残す場合は空欄のままにしてください。再表示されることはありません。",
+    "secretKept": "保存済みのシークレットを使う場合は空欄のままにしてください。",
     "save": "保存",
     "badId": "そのクライアントIDは無効です。",
     "badSecret": "そのクライアントシークレットは無効です。",
@@ -196,12 +190,44 @@
     "saveFailed": "保存に失敗しました。しばらくしてからもう一度お試しください。",
     "tooMany": "試行回数が多すぎます。1分ほどお待ちください。",
     "saved": "保存しました。",
-    "connected": "Spotifyを接続しました。",
-    "disconnected": "Spotifyの接続を解除しました。",
-    "denied": "Spotifyへのアクセスが許可されませんでした。",
-    "expired": "サインインリンクの有効期限が切れています。再度接続してください。",
+    "connected": "Spotify に接続しました。",
+    "disconnected": "Spotify との接続を解除しました。",
+    "denied": "Spotify へのアクセスが拒否されました。",
+    "expired": "このリンクは期限切れです。もう一度接続してください。",
     "failed": "問題が発生しました。しばらくしてからもう一度お試しください。",
     "off": "Spotify接続は現在利用できません。",
-    "loadFailed": "読み込めませんでした。しばらくしてから再度お試しください。"
+    "loadFailed": "読み込めませんでした。しばらくしてから再度お試しください。",
+    "ready": "アプリを保存しました。Spotify アカウントを接続してください。",
+    "changeApp": "Spotify アプリを変更",
+    "show": "表示",
+    "hide": "非表示",
+    "copy": "コピー",
+    "copied": "コピーしました"
+  },
+  "purchase": {
+    "title": "Tenacity を入手",
+    "description": "Tenacity は単体では販売していません。Opal と Terminus のすべての購入に永久無料で含まれます。",
+    "disclosure": "Tenacity に個別の価格はありません。入手方法は Opal または Terminus の購入のみで、どちらにも含まれています。",
+    "includes": "Tenacity 付き",
+    "currency": "USD",
+    "lifetime": "一回払い、永久アクセス",
+    "opal": {
+      "button": "Opal を購入"
+    },
+    "terminus": {
+      "button": "Terminus を購入",
+      "support": "優先サポート"
+    },
+    "stepsTitle": "購入後の流れ",
+    "owned": "すでに Opal または Terminus をお持ちですか?Tenacity もすでに利用できます。<dashboard>ダッシュボードへ</dashboard>。",
+    "item": {
+      "opal": "Opal(永久)",
+      "terminus": "Terminus(永久)",
+      "tenacity": "Tenacity(永久)",
+      "updates": "今後のすべてのアップデート"
+    },
+    "step1": "Opal または Terminus をそれぞれのサイトで購入します。",
+    "step2": "同じアカウントでこちらの<dashboard>ダッシュボード</dashboard>にサインインします。",
+    "step3": "ランチャーをダウンロードします。Tenacity はすでにアカウントに追加されています。"
   }
 }

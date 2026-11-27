@@ -161,10 +161,7 @@
       "macos-arm64": "macOS (Apple-Chip)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Deine Anmeldung liegt länger zurück. Melde dich ab und wieder an, um deine Sitzungen zu sehen.",
-    "connections": "Verbindungen",
-    "connectionsLede": "Nutze deine eigene Spotify-App im Spiel.",
-    "manage": "Verwalten"
+    "sessionsStale": "Deine Anmeldung liegt länger zurück. Melde dich ab und wieder an, um deine Sitzungen zu sehen."
   },
   "source": {
     "bundle": "In Ihrem Opal- oder Terminus-Kauf enthalten",
@@ -173,22 +170,19 @@
     "other": "Gewährt"
   },
   "connections": {
-    "title": "Verbindungen",
-    "back": "Dashboard",
-    "lede": "Verbinde deine eigene Spotify-App, um deine Musik im Spiel anzuzeigen und zu steuern. Die Steuerung erfordert Spotify Premium.",
+    "lede": "Zeige und steuere deine Musik im Spiel. Die Steuerung erfordert Spotify Premium.",
     "stateOn": "Verbunden",
     "stateOff": "Nicht verbunden",
     "account": "Verbunden als <name>{account}</name>",
     "connect": "Verbinden",
-    "reconnect": "Neu verbinden",
     "disconnect": "Trennen",
-    "app": "Deine Spotify-App",
+    "app": "Spotify-App einrichten",
     "stepCreate": "Erstelle eine App im <link>Spotify-Entwickler-Dashboard</link> mit aktivierter Web-API.",
-    "stepRedirect": "Füge der App diese Weiterleitungs-URI hinzu:",
-    "stepPaste": "Füge unten die Client-ID und das Client-Secret der App ein, speichere und verbinde dann.",
+    "stepRedirect": "Füge diese Weiterleitungs-URI hinzu:",
+    "stepPaste": "Füge unten Client-ID und Secret ein und speichere.",
     "clientId": "Client-ID",
     "clientSecret": "Client-Secret",
-    "secretKept": "Leer lassen, um das gespeicherte Secret zu behalten. Es wird nie wieder angezeigt.",
+    "secretKept": "Leer lassen, um dein gespeichertes Secret zu behalten.",
     "save": "Speichern",
     "badId": "Diese Client-ID ist ungültig.",
     "badSecret": "Dieses Client-Secret ist ungültig.",
@@ -196,12 +190,44 @@
     "saveFailed": "Speichern fehlgeschlagen. Versuche es gleich noch einmal.",
     "tooMany": "Zu viele Versuche. Warte eine Minute.",
     "saved": "Gespeichert.",
-    "connected": "Spotify ist verbunden.",
-    "disconnected": "Spotify ist getrennt.",
-    "denied": "Der Zugriff auf Spotify wurde nicht gewährt.",
-    "expired": "Dieser Anmelde-Link ist abgelaufen. Verbinde dich erneut.",
+    "connected": "Mit Spotify verbunden.",
+    "disconnected": "Von Spotify getrennt.",
+    "denied": "Der Spotify-Zugriff wurde verweigert.",
+    "expired": "Dieser Link ist abgelaufen. Verbinde dich erneut.",
     "failed": "Etwas ist schiefgelaufen. Versuche es gleich noch einmal.",
     "off": "Spotify-Verbindungen sind derzeit nicht verfügbar.",
-    "loadFailed": "Laden fehlgeschlagen. Versuche es gleich noch einmal."
+    "loadFailed": "Laden fehlgeschlagen. Versuche es gleich noch einmal.",
+    "ready": "Deine App ist gespeichert. Verbinde dein Spotify-Konto.",
+    "changeApp": "Spotify-App ändern",
+    "show": "Anzeigen",
+    "hide": "Verbergen",
+    "copy": "Kopieren",
+    "copied": "Kopiert"
+  },
+  "purchase": {
+    "title": "Tenacity erhalten",
+    "description": "Tenacity wird nicht einzeln verkauft. Es ist bei jedem Kauf von Opal und Terminus lebenslang kostenlos enthalten.",
+    "disclosure": "Tenacity hat keinen eigenen Preis. Der Kauf von Opal oder Terminus ist der einzige Weg, es zu bekommen, und beide enthalten es.",
+    "includes": "Enthält Tenacity",
+    "currency": "USD",
+    "lifetime": "Einmalzahlung, lebenslanger Zugang",
+    "opal": {
+      "button": "Opal kaufen"
+    },
+    "terminus": {
+      "button": "Terminus kaufen",
+      "support": "Bevorzugter Support"
+    },
+    "stepsTitle": "Nach dem Kauf",
+    "owned": "Du besitzt bereits Opal oder Terminus? Dann hast du Tenacity schon. <dashboard>Zum Dashboard</dashboard>.",
+    "item": {
+      "opal": "Opal, lebenslang",
+      "terminus": "Terminus, lebenslang",
+      "tenacity": "Tenacity, lebenslang",
+      "updates": "Alle zukünftigen Updates"
+    },
+    "step1": "Kaufe Opal oder Terminus auf der jeweiligen Website.",
+    "step2": "Melde dich hier mit demselben Konto im <dashboard>Dashboard</dashboard> an.",
+    "step3": "Lade den Launcher herunter. Tenacity ist bereits in deinem Konto."
   }
 }

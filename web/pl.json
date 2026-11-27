@@ -161,10 +161,7 @@
       "macos-arm64": "macOS (układ Apple)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "Od logowania minęło trochę czasu. Wyloguj się i zaloguj ponownie, aby zobaczyć sesje.",
-    "connections": "Połączenia",
-    "connectionsLede": "Użyj własnej aplikacji Spotify w grze.",
-    "manage": "Zarządzaj"
+    "sessionsStale": "Od logowania minęło trochę czasu. Wyloguj się i zaloguj ponownie, aby zobaczyć sesje."
   },
   "source": {
     "bundle": "Dołączone do zakupu Opal lub Terminus",
@@ -173,22 +170,19 @@
     "other": "Przyznane"
   },
   "connections": {
-    "title": "Połączenia",
-    "back": "Panel",
-    "lede": "Podłącz własną aplikację Spotify, aby wyświetlać i kontrolować swoją muzykę w grze. Sterowanie wymaga Spotify Premium.",
+    "lede": "Wyświetlaj i steruj muzyką w grze. Sterowanie wymaga Spotify Premium.",
     "stateOn": "Połączono",
     "stateOff": "Nie połączono",
     "account": "Połączono jako <name>{account}</name>",
     "connect": "Połącz",
-    "reconnect": "Połącz ponownie",
     "disconnect": "Rozłącz",
-    "app": "Twoja aplikacja Spotify",
+    "app": "Skonfiguruj aplikację Spotify",
     "stepCreate": "Utwórz aplikację w <link>panelu deweloperskim Spotify</link> z włączonym Web API.",
-    "stepRedirect": "Dodaj ten URI przekierowania do aplikacji:",
-    "stepPaste": "Wklej poniżej identyfikator klienta i tajny klucz aplikacji, zapisz, a następnie połącz.",
+    "stepRedirect": "Dodaj ten adres URI przekierowania:",
+    "stepPaste": "Wklej poniżej identyfikator klienta i sekret, a następnie zapisz.",
     "clientId": "Identyfikator klienta",
     "clientSecret": "Tajny klucz klienta",
-    "secretKept": "Pozostaw puste, aby zachować zapisany klucz. Nigdy więcej nie zostanie pokazany.",
+    "secretKept": "Zostaw puste, aby zachować zapisany sekret.",
     "save": "Zapisz",
     "badId": "Ten identyfikator klienta jest nieprawidłowy.",
     "badSecret": "Ten tajny klucz klienta jest nieprawidłowy.",
@@ -196,12 +190,44 @@
     "saveFailed": "Nie udało się zapisać. Spróbuj ponownie za chwilę.",
     "tooMany": "Za dużo prób. Zaczekaj minutę.",
     "saved": "Zapisano.",
-    "connected": "Spotify jest połączone.",
-    "disconnected": "Spotify jest rozłączone.",
-    "denied": "Dostęp do Spotify nie został przyznany.",
-    "expired": "Ten link do logowania wygasł. Połącz się ponownie.",
+    "connected": "Połączono ze Spotify.",
+    "disconnected": "Rozłączono ze Spotify.",
+    "denied": "Odmówiono dostępu do Spotify.",
+    "expired": "Ten link wygasł. Połącz ponownie.",
     "failed": "Coś poszło nie tak. Spróbuj ponownie za chwilę.",
     "off": "Połączenia Spotify są niedostępne w tej chwili.",
-    "loadFailed": "Nie udało się załadować. Spróbuj ponownie za chwilę."
+    "loadFailed": "Nie udało się załadować. Spróbuj ponownie za chwilę.",
+    "ready": "Twoja aplikacja jest zapisana. Połącz konto Spotify.",
+    "changeApp": "Zmień aplikację Spotify",
+    "show": "Pokaż",
+    "hide": "Ukryj",
+    "copy": "Kopiuj",
+    "copied": "Skopiowano"
+  },
+  "purchase": {
+    "title": "Zdobądź Tenacity",
+    "description": "Tenacity nie jest sprzedawane osobno. Jest dożywotnio dołączone za darmo do każdego zakupu Opal i Terminus.",
+    "disclosure": "Tenacity nie ma własnej ceny. Zakup Opal lub Terminus to jedyny sposób, by je otrzymać, i oba je zawierają.",
+    "includes": "Zawiera Tenacity",
+    "currency": "USD",
+    "lifetime": "Jednorazowa płatność, dożywotni dostęp",
+    "opal": {
+      "button": "Kup Opal"
+    },
+    "terminus": {
+      "button": "Kup Terminus",
+      "support": "Priorytetowe wsparcie"
+    },
+    "stepsTitle": "Po zakupie",
+    "owned": "Masz już Opal lub Terminus? Masz już też Tenacity. <dashboard>Przejdź do panelu</dashboard>.",
+    "item": {
+      "opal": "Opal, dożywotnio",
+      "terminus": "Terminus, dożywotnio",
+      "tenacity": "Tenacity, dożywotnio",
+      "updates": "Wszystkie przyszłe aktualizacje"
+    },
+    "step1": "Kup Opal lub Terminus na jego stronie.",
+    "step2": "Zaloguj się tutaj do <dashboard>panelu</dashboard> tym samym kontem.",
+    "step3": "Pobierz launcher. Tenacity jest już na Twoim koncie."
   }
 }

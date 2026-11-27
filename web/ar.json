@@ -161,10 +161,7 @@
       "macos-arm64": "macOS (Apple silicon)",
       "linux-x64": "Linux"
     },
-    "sessionsStale": "مرّ وقت على تسجيل دخولك. سجّل الخروج ثم الدخول مجددًا لعرض جلساتك.",
-    "connections": "الاتصالات",
-    "connectionsLede": "استخدم تطبيق Spotify الخاص بك في اللعبة.",
-    "manage": "إدارة"
+    "sessionsStale": "مرّ وقت على تسجيل دخولك. سجّل الخروج ثم الدخول مجددًا لعرض جلساتك."
   },
   "source": {
     "bundle": "مُضمَّن مع عملية شراء Opal أو Terminus",
@@ -173,22 +170,19 @@
     "other": "مُمنوح"
   },
   "connections": {
-    "title": "الاتصالات",
-    "back": "لوحة التحكم",
-    "lede": "قم بتوصيل تطبيق Spotify الخاص بك لعرض موسيقاك والتحكم بها داخل اللعبة. يتطلب التحكم اشتراك Spotify Premium.",
+    "lede": "اعرض موسيقاك وتحكم بها داخل اللعبة. يتطلب التحكم اشتراك Spotify Premium.",
     "stateOn": "متصل",
     "stateOff": "غير متصل",
     "account": "متصل باسم <name>{account}</name>",
     "connect": "اتصال",
-    "reconnect": "إعادة الاتصال",
     "disconnect": "قطع الاتصال",
-    "app": "تطبيق Spotify الخاص بك",
-    "stepCreate": "أنشئ تطبيقًا في <link>لوحة تحكم مطوري Spotify</link> مع تفعيل Web API.",
-    "stepRedirect": "أضف عنوان URI لإعادة التوجيه هذا إلى التطبيق:",
-    "stepPaste": "الصق أدناه مُعرّف العميل وسر العميل الخاصين بالتطبيق، ثم احفظ واتصل.",
+    "app": "إعداد تطبيق Spotify الخاص بك",
+    "stepCreate": "أنشئ تطبيقًا في <link>لوحة مطوري Spotify</link> مع تفعيل Web API.",
+    "stepRedirect": "أضف عنوان URI لإعادة التوجيه هذا:",
+    "stepPaste": "الصق معرّف العميل والسر أدناه، ثم احفظ.",
     "clientId": "مُعرّف العميل",
     "clientSecret": "سر العميل",
-    "secretKept": "اتركه فارغًا للاحتفاظ بالسر المحفوظ. لن يُعرض مرة أخرى أبدًا.",
+    "secretKept": "اتركه فارغًا للاحتفاظ بالسر المحفوظ.",
     "save": "حفظ",
     "badId": "مُعرّف العميل هذا غير صالح.",
     "badSecret": "سر العميل هذا غير صالح.",
@@ -196,12 +190,44 @@
     "saveFailed": "لم يتم الحفظ. حاول مرة أخرى بعد قليل.",
     "tooMany": "محاولات كثيرة جدًا. انتظر دقيقة.",
     "saved": "تم الحفظ.",
-    "connected": "تم توصيل Spotify.",
-    "disconnected": "تم فصل Spotify.",
-    "denied": "لم يتم منح حق الوصول إلى Spotify.",
-    "expired": "انتهت صلاحية رابط تسجيل الدخول. اتصل مجددًا.",
+    "connected": "تم الاتصال بـ Spotify.",
+    "disconnected": "تم قطع الاتصال بـ Spotify.",
+    "denied": "تم رفض الوصول إلى Spotify.",
+    "expired": "انتهت صلاحية هذا الرابط. اتصل مرة أخرى.",
     "failed": "حدث خطأ ما. حاول مرة أخرى بعد قليل.",
     "off": "اتصالات Spotify غير متاحة حاليًا.",
-    "loadFailed": "لم يتم التحميل. حاول مرة أخرى بعد قليل."
+    "loadFailed": "لم يتم التحميل. حاول مرة أخرى بعد قليل.",
+    "ready": "تم حفظ تطبيقك. اربط حسابك على Spotify.",
+    "changeApp": "تغيير تطبيق Spotify",
+    "show": "إظهار",
+    "hide": "إخفاء",
+    "copy": "نسخ",
+    "copied": "تم النسخ"
+  },
+  "purchase": {
+    "title": "احصل على Tenacity",
+    "description": "لا يُباع Tenacity بشكل منفصل. يأتي مجانًا مدى الحياة مع كل عملية شراء لـ Opal وTerminus.",
+    "disclosure": "ليس لـ Tenacity سعر خاص به. شراء Opal أو Terminus هو الطريقة الوحيدة للحصول عليه، وكلاهما يتضمنه.",
+    "includes": "يتضمن Tenacity",
+    "currency": "USD",
+    "lifetime": "دفعة واحدة، وصول مدى الحياة",
+    "opal": {
+      "button": "شراء Opal"
+    },
+    "terminus": {
+      "button": "شراء Terminus",
+      "support": "دعم ذو أولوية"
+    },
+    "stepsTitle": "بعد الشراء",
+    "owned": "تملك Opal أو Terminus بالفعل؟ لديك Tenacity أيضًا. <dashboard>انتقل إلى لوحة التحكم</dashboard>.",
+    "item": {
+      "opal": "Opal، مدى الحياة",
+      "terminus": "Terminus، مدى الحياة",
+      "tenacity": "Tenacity، مدى الحياة",
+      "updates": "جميع التحديثات المستقبلية"
+    },
+    "step1": "اشترِ Opal أو Terminus من موقعه.",
+    "step2": "سجّل الدخول هنا إلى <dashboard>لوحة التحكم</dashboard> بالحساب نفسه.",
+    "step3": "نزّل المشغّل. Tenacity موجود بالفعل في حسابك."
   }
 }
